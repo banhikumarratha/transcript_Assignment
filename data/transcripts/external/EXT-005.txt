@@ -1,0 +1,13 @@
+Call ID: EXT-005
+Type: external
+Date: 2026-01-25
+Topic: Renewal Negotiation
+Participants: Sofia (account manager); Mei (customer)
+------------------------------------------------------------
+AM (Sofia): Hi Mei, thanks for making time today. How are things going on your side?
+Customer (Mei): The renewal quote came in higher than we budgeted for.
+AM (Sofia): Let's look at your usage — you've grown into a higher tier organically.
+Customer (Mei): We've had a mixed experience, to be candid.
+AM (Sofia): I'd love to walk through the value you've realized this year.
+Customer (Mei): This was helpful. Let's keep the momentum going.
+AM (Sofia): Thank you — I'll send a recap with clear next steps and owners by end of day.

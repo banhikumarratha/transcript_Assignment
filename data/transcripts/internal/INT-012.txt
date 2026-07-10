@@ -1,0 +1,12 @@
+Call ID: INT-012
+Type: internal
+Date: 2026-05-07
+Topic: Incident & Postmortem
+Participants: Fatima (lead); Yuki (eng); Priya (PM)
+------------------------------------------------------------
+Lead (Fatima): The billing service went down during peak and customers noticed.
+Eng (Yuki): We need better alerting; we found out from customers first.
+PM (Priya): We need to weigh this against what we promised the field.
+Eng (Yuki): Root cause was a bad deploy that overwhelmed the webhook queue.
+Lead (Fatima): We're accumulating risk here. Leadership needs to hear it.
+PM (Priya): I'll document the decisions and owners and share the notes.

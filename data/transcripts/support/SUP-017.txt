@@ -1,0 +1,14 @@
+Call ID: SUP-017
+Type: support
+Date: 2026-05-10
+Topic: Feature Requests
+Participants: Elena (agent); Mei (customer)
+------------------------------------------------------------
+Agent (Elena): Thanks for calling support, this is Elena. How can I help today?
+Customer (Mei): Any chance the roadmap includes Salesforce two-way sync soon?
+Agent (Elena): I can't promise a date, but I'll pass this to product with your use case.
+Customer (Mei): Okay, here's what I'm seeing on my end.
+Agent (Elena): Audit logs are actually on the near-term roadmap; I'll flag your interest.
+Customer (Mei): Alright, let's see if that holds. Appreciate you digging in.
+Agent (Elena): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Mei): That's everything, thanks.

@@ -1,0 +1,14 @@
+Call ID: SUP-016
+Type: support
+Date: 2026-05-11
+Topic: API Errors & Integration
+Participants: Priya (agent); Devin (customer)
+------------------------------------------------------------
+Agent (Priya): Thanks for calling support, this is Priya. How can I help today?
+Customer (Devin): Your latest release broke the field mapping in our integration.
+Agent (Priya): You're hitting the rate limit — I'll bump your tier's quota.
+Customer (Devin): Sure, one moment.
+Agent (Priya): Can you share a request ID so I can trace it in our logs?
+Customer (Devin): Honestly this has cost us real time and I hope it doesn't happen again.
+Agent (Priya): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Devin): No, that's all for now.

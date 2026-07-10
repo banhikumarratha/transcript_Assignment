@@ -1,0 +1,14 @@
+Call ID: SUP-032
+Type: support
+Date: 2026-06-14
+Topic: Billing & Invoicing
+Participants: Jonas (agent); Devin (customer)
+------------------------------------------------------------
+Agent (Jonas): Thanks for calling support, this is Jonas. How can I help today?
+Customer (Devin): Our invoice jumped 40% this month with no warning and finance is furious.
+Agent (Jonas): That increase came from an overage on API calls; let me break it down.
+Customer (Devin): Sure, one moment.
+Agent (Jonas): Let me pull up your billing history and take a look.
+Customer (Devin): I appreciate the fix but this shouldn't have slipped through.
+Agent (Jonas): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Devin): No, that's all for now.

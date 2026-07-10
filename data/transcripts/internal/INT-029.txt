@@ -1,0 +1,12 @@
+Call ID: INT-029
+Type: internal
+Date: 2026-04-27
+Topic: Cross-Team Escalation
+Participants: Fatima (lead); Elena (eng); Fatima (PM)
+------------------------------------------------------------
+Lead (Fatima): The account team says a major customer is at churn risk over outages.
+Eng (Elena): Reliability has to be our top priority if renewals are on the line.
+PM (Fatima): From the product side, customers are definitely feeling this.
+Eng (Elena): Compliance work is scoped but competing with the analytics roadmap.
+Lead (Fatima): Okay, this can't happen again — let's make the action items P0.
+PM (Fatima): I'll document the decisions and owners and share the notes.

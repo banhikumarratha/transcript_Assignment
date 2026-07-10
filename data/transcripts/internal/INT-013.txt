@@ -1,0 +1,12 @@
+Call ID: INT-013
+Type: internal
+Date: 2026-06-24
+Topic: Roadmap & Planning
+Participants: Jonas (lead); Liam (eng); Fatima (PM)
+------------------------------------------------------------
+Lead (Jonas): We need to balance new features against the reliability backlog.
+Eng (Liam): Let's tie each roadmap item to a customer or revenue signal.
+PM (Fatima): Let's make sure we capture this in the roadmap tradeoffs.
+Eng (Liam): We can ship two flagship features if we hold the line on scope.
+Lead (Jonas): Great alignment — let's execute.
+PM (Fatima): I'll document the decisions and owners and share the notes.

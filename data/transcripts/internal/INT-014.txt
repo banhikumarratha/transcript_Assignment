@@ -1,0 +1,12 @@
+Call ID: INT-014
+Type: internal
+Date: 2026-05-02
+Topic: Sprint Planning
+Participants: Aisha (lead); Ben (eng); Aisha (PM)
+------------------------------------------------------------
+Lead (Aisha): We need to size the SSO reliability work before we commit.
+Eng (Ben): Bulk edit is bigger than it looks; the data model needs work.
+PM (Aisha): From the product side, customers are definitely feeling this.
+Eng (Ben): We can commit to a beta if we cut scope on the export piece.
+Lead (Aisha): Let's commit to what's realistic and not overpromise.
+PM (Aisha): I'll document the decisions and owners and share the notes.

@@ -1,0 +1,14 @@
+Call ID: SUP-020
+Type: support
+Date: 2026-01-07
+Topic: Login & Authentication
+Participants: Elena (agent); Marcus (customer)
+------------------------------------------------------------
+Agent (Elena): Thanks for calling support, this is Elena. How can I help today?
+Customer (Marcus): Half my team can't log in since this morning — it just spins.
+Agent (Elena): Are you seeing an error code, or does it hang on the redirect?
+Customer (Marcus): Okay, here's what I'm seeing on my end.
+Agent (Elena): This looks like a SAML metadata mismatch — let's re-upload the cert.
+Customer (Marcus): Thanks, that clears up most of it — I'll try what you suggested.
+Agent (Elena): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Marcus): That's everything, thanks.

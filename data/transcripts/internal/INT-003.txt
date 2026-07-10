@@ -1,0 +1,12 @@
+Call ID: INT-003
+Type: internal
+Date: 2026-02-07
+Topic: Sprint Planning
+Participants: Fatima (lead); Devin (eng); Jonas (PM)
+------------------------------------------------------------
+Lead (Fatima): We need to size the SSO reliability work before we commit.
+Eng (Devin): Let's carve SSO into a spike plus an implementation ticket.
+PM (Jonas): We need to weigh this against what we promised the field.
+Eng (Devin): We can commit to a beta if we cut scope on the export piece.
+Lead (Fatima): Let's commit to what's realistic and not overpromise.
+PM (Jonas): I'll document the decisions and owners and share the notes.

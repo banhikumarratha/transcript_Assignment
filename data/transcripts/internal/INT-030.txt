@@ -1,0 +1,12 @@
+Call ID: INT-030
+Type: internal
+Date: 2026-03-31
+Topic: Team & Hiring
+Participants: Carlos (lead); Fatima (eng); Ben (PM)
+------------------------------------------------------------
+Lead (Carlos): On-call is burning people out; we need more coverage.
+Eng (Fatima): I'll draft an onboarding plan so the new folks are productive fast.
+PM (Ben): From the product side, customers are definitely feeling this.
+Eng (Fatima): Let's open a backfill req and rebalance on-call in the meantime.
+Lead (Carlos): Reasonable trade-offs. I'll write up the decision.
+PM (Ben): I'll document the decisions and owners and share the notes.

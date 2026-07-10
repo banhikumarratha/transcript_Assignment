@@ -1,0 +1,12 @@
+Call ID: INT-027
+Type: internal
+Date: 2026-01-16
+Topic: Cross-Team Escalation
+Participants: Carlos (lead); Grace (eng); Zara (PM)
+------------------------------------------------------------
+Lead (Carlos): Support is escalating a spike in billing complaints to us.
+Eng (Grace): We're seeing the billing duplicate-charge bug in the logs too.
+PM (Zara): From the product side, customers are definitely feeling this.
+Eng (Grace): Compliance work is scoped but competing with the analytics roadmap.
+Lead (Carlos): Let's be honest that morale takes a hit every time this recurs.
+PM (Zara): I'll document the decisions and owners and share the notes.

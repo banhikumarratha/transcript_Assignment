@@ -1,0 +1,14 @@
+Call ID: SUP-030
+Type: support
+Date: 2026-04-23
+Topic: How-To & Configuration
+Participants: Jonas (agent); Jonas (customer)
+------------------------------------------------------------
+Agent (Jonas): Thanks for calling support, this is Jonas. How can I help today?
+Customer (Jonas): Where do I configure the weekly digest email for my team?
+Agent (Jonas): That toggle lives under Notifications; let me show you.
+Customer (Jonas): I've already tried the usual restart and it didn't help.
+Agent (Jonas): Happy to help — let's go to Settings > Access together.
+Customer (Jonas): Great, this is going to save my team a ton of time.
+Agent (Jonas): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Jonas): No, that's all for now.

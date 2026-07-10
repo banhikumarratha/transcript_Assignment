@@ -1,0 +1,14 @@
+Call ID: SUP-006
+Type: support
+Date: 2026-05-27
+Topic: Feature Requests
+Participants: Ben (agent); Zara (customer)
+------------------------------------------------------------
+Agent (Ben): Thanks for calling support, this is Ben. How can I help today?
+Customer (Zara): We'd love granular audit logs for our compliance review.
+Agent (Ben): I can't promise a date, but I'll pass this to product with your use case.
+Customer (Zara): Sure, one moment.
+Agent (Ben): Audit logs are actually on the near-term roadmap; I'll flag your interest.
+Customer (Zara): Thanks, that clears up most of it — I'll try what you suggested.
+Agent (Ben): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Zara): No, that's all for now.
