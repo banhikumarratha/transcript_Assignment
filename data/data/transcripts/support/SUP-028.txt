@@ -1,0 +1,14 @@
+Call ID: SUP-028
+Type: support
+Date: 2026-01-20
+Topic: Performance & Reliability
+Participants: Marcus (agent); Jonas (customer)
+------------------------------------------------------------
+Agent (Marcus): Thanks for calling support, this is Marcus. How can I help today?
+Customer (Jonas): Reports that used to run in seconds now time out completely.
+Agent (Marcus): Let me check the status of your region's cluster.
+Customer (Jonas): Okay, here's what I'm seeing on my end.
+Agent (Marcus): I'll escalate this to our reliability team with your traces.
+Customer (Jonas): Honestly this has cost us real time and I hope it doesn't happen again.
+Agent (Marcus): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Jonas): No, that's all for now.

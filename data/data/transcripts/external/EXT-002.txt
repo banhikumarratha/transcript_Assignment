@@ -1,0 +1,13 @@
+Call ID: EXT-002
+Type: external
+Date: 2026-02-28
+Topic: Quarterly Business Review
+Participants: Grace (account manager); Hannah (customer)
+------------------------------------------------------------
+AM (Grace): Hi Hannah, thanks for making time today. How are things going on your side?
+Customer (Hannah): Leadership wants to see measurable impact from this investment.
+AM (Grace): Here's how your outcomes compare to similar teams in your industry.
+Customer (Hannah): Numbers matter to us — show me the impact.
+AM (Grace): Let's set two or three concrete goals we can track together.
+Customer (Hannah): Great session — my team is going to be thrilled with this.
+AM (Grace): Thank you — I'll send a recap with clear next steps and owners by end of day.

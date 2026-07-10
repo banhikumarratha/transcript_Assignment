@@ -1,0 +1,13 @@
+Call ID: EXT-023
+Type: external
+Date: 2026-04-24
+Topic: Quarterly Business Review
+Participants: Tomás (account manager); Raj (customer)
+------------------------------------------------------------
+AM (Tomás): Hi Raj, thanks for making time today. How are things going on your side?
+Customer (Raj): Let's use today to review how the last quarter went.
+AM (Tomás): Here's how your outcomes compare to similar teams in your industry.
+Customer (Raj): We've had a mixed experience, to be candid.
+AM (Tomás): Let's set two or three concrete goals we can track together.
+Customer (Raj): This is exactly the partnership we were hoping for. Excited to expand.
+AM (Tomás): Thank you — I'll send a recap with clear next steps and owners by end of day.

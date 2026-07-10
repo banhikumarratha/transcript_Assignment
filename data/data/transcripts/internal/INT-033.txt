@@ -1,0 +1,12 @@
+Call ID: INT-033
+Type: internal
+Date: 2026-02-08
+Topic: Incident & Postmortem
+Participants: Ben (lead); Yuki (eng); Fatima (PM)
+------------------------------------------------------------
+Lead (Ben): We had a partial outage in the EU region overnight.
+Eng (Yuki): Root cause was a bad deploy that overwhelmed the webhook queue.
+PM (Fatima): We need to weigh this against what we promised the field.
+Eng (Yuki): Action item: add a circuit breaker and backfill the failed jobs.
+Lead (Ben): We're accumulating risk here. Leadership needs to hear it.
+PM (Fatima): I'll document the decisions and owners and share the notes.

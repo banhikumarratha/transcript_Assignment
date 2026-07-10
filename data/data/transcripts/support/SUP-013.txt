@@ -1,0 +1,14 @@
+Call ID: SUP-013
+Type: support
+Date: 2026-06-07
+Topic: Performance & Reliability
+Participants: Elena (agent); Naomi (customer)
+------------------------------------------------------------
+Agent (Elena): Thanks for calling support, this is Elena. How can I help today?
+Customer (Naomi): We saw a full outage yesterday during our busiest hour.
+Agent (Elena): I'll escalate this to our reliability team with your traces.
+Customer (Naomi): Sure, one moment.
+Agent (Elena): We're rolling out a fix; I'll keep you posted on the timeline.
+Customer (Naomi): Honestly this has cost us real time and I hope it doesn't happen again.
+Agent (Elena): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Naomi): That's everything, thanks.

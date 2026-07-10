@@ -1,0 +1,14 @@
+Call ID: SUP-010
+Type: support
+Date: 2026-04-18
+Topic: Login & Authentication
+Participants: Aisha (agent); Elena (customer)
+------------------------------------------------------------
+Agent (Aisha): Thanks for calling support, this is Aisha. How can I help today?
+Customer (Elena): I keep getting 'invalid credentials' even after a reset.
+Agent (Aisha): This looks like a SAML metadata mismatch — let's re-upload the cert.
+Customer (Elena): This is the third time we've raised this, for the record.
+Agent (Aisha): I've cleared the lockout on your account, try again now.
+Customer (Elena): Alright, let's see if that holds. Appreciate you digging in.
+Agent (Aisha): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Elena): That's everything, thanks.

@@ -1,0 +1,13 @@
+Call ID: EXT-001
+Type: external
+Date: 2026-02-09
+Topic: Renewal Negotiation
+Participants: Aisha (account manager); Devin (customer)
+------------------------------------------------------------
+AM (Aisha): Hi Devin, thanks for making time today. How are things going on your side?
+Customer (Devin): The renewal quote came in higher than we budgeted for.
+AM (Aisha): I can put together an ROI summary you can take to your CFO.
+Customer (Devin): The team is generally positive, but there are gaps.
+AM (Aisha): I'd love to walk through the value you've realized this year.
+Customer (Devin): I feel better about the direction. Let's check in again soon.
+AM (Aisha): Thank you — I'll send a recap with clear next steps and owners by end of day.

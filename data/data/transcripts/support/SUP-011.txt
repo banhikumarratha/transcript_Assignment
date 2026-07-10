@@ -1,0 +1,14 @@
+Call ID: SUP-011
+Type: support
+Date: 2026-02-11
+Topic: Login & Authentication
+Participants: Aisha (agent); Sofia (customer)
+------------------------------------------------------------
+Agent (Aisha): Thanks for calling support, this is Aisha. How can I help today?
+Customer (Sofia): I keep getting 'invalid credentials' even after a reset.
+Agent (Aisha): I'll enable a temporary backup code so you can get back in.
+Customer (Sofia): I've already tried the usual restart and it didn't help.
+Agent (Aisha): I've cleared the lockout on your account, try again now.
+Customer (Sofia): Alright, let's see if that holds. Appreciate you digging in.
+Agent (Aisha): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Sofia): No, that's all for now.

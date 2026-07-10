@@ -1,0 +1,12 @@
+Call ID: INT-032
+Type: internal
+Date: 2026-05-18
+Topic: Team & Hiring
+Participants: Liam (lead); Zara (eng); Fatima (PM)
+------------------------------------------------------------
+Lead (Liam): We're stretched thin on the platform team and need to hire.
+Eng (Zara): I'll draft an onboarding plan so the new folks are productive fast.
+PM (Fatima): Let's make sure we capture this in the roadmap tradeoffs.
+Eng (Zara): Let's open a backfill req and rebalance on-call in the meantime.
+Lead (Liam): Let's commit to what's realistic and not overpromise.
+PM (Fatima): I'll document the decisions and owners and share the notes.

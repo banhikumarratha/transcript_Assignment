@@ -1,0 +1,100 @@
+call_id,call_type,date,topic,topic_key,participants,sentiment_seed
+EXT-001,external,2026-02-09,Renewal Negotiation,renewal,Aisha (account manager); Devin (customer),mixed
+EXT-002,external,2026-02-28,Quarterly Business Review,qbr,Grace (account manager); Hannah (customer),pos
+EXT-003,external,2026-01-19,Adoption & Onboarding,adoption,Elena (account manager); Carlos (customer),mixed
+EXT-004,external,2026-03-14,Churn Risk & Escalation,churn_risk,Raj (account manager); Yuki (customer),neg
+EXT-005,external,2026-01-25,Renewal Negotiation,renewal,Sofia (account manager); Mei (customer),mixed
+EXT-006,external,2026-03-25,Adoption & Onboarding,adoption,Liam (account manager); Marcus (customer),mixed
+EXT-007,external,2026-05-29,Quarterly Business Review,qbr,Carlos (account manager); Zara (customer),pos
+EXT-008,external,2026-01-12,Product Feedback,feedback,Raj (account manager); Grace (customer),mixed
+EXT-009,external,2026-02-02,Product Feedback,feedback,Naomi (account manager); Marcus (customer),mixed
+EXT-010,external,2026-03-05,Quarterly Business Review,qbr,Tomás (account manager); Priya (customer),pos
+EXT-011,external,2026-03-18,Product Feedback,feedback,Liam (account manager); Owen (customer),mixed
+EXT-012,external,2026-02-20,Renewal Negotiation,renewal,Jonas (account manager); Aisha (customer),mixed
+EXT-013,external,2026-06-10,Product Feedback,feedback,Owen (account manager); Devin (customer),mixed
+EXT-014,external,2026-04-27,Churn Risk & Escalation,churn_risk,Priya (account manager); Owen (customer),neg
+EXT-015,external,2026-06-25,Adoption & Onboarding,adoption,Grace (account manager); Zara (customer),mixed
+EXT-016,external,2026-03-26,Product Feedback,feedback,Carlos (account manager); Grace (customer),mixed
+EXT-017,external,2026-04-23,Churn Risk & Escalation,churn_risk,Naomi (account manager); Raj (customer),neg
+EXT-018,external,2026-03-20,Churn Risk & Escalation,churn_risk,Hannah (account manager); Carlos (customer),neg
+EXT-019,external,2026-06-27,Product Feedback,feedback,Hannah (account manager); Owen (customer),mixed
+EXT-020,external,2026-05-17,Renewal Negotiation,renewal,Zara (account manager); Grace (customer),mixed
+EXT-021,external,2026-01-12,Product Feedback,feedback,Marcus (account manager); Tomás (customer),mixed
+EXT-022,external,2026-06-02,Product Feedback,feedback,Hannah (account manager); Naomi (customer),mixed
+EXT-023,external,2026-04-24,Quarterly Business Review,qbr,Tomás (account manager); Raj (customer),pos
+EXT-024,external,2026-05-02,Quarterly Business Review,qbr,Sofia (account manager); Yuki (customer),pos
+EXT-025,external,2026-04-30,Product Feedback,feedback,Raj (account manager); Fatima (customer),mixed
+EXT-026,external,2026-05-10,Product Feedback,feedback,Tomás (account manager); Aisha (customer),mixed
+EXT-027,external,2026-03-28,Expansion & Upsell,expansion,Mei (account manager); Elena (customer),pos
+EXT-028,external,2026-03-01,Product Feedback,feedback,Elena (account manager); Carlos (customer),mixed
+EXT-029,external,2026-04-23,Quarterly Business Review,qbr,Naomi (account manager); Jonas (customer),pos
+EXT-030,external,2026-03-23,Churn Risk & Escalation,churn_risk,Naomi (account manager); Carlos (customer),neg
+EXT-031,external,2026-04-27,Product Feedback,feedback,Fatima (account manager); Priya (customer),mixed
+EXT-032,external,2026-02-07,Renewal Negotiation,renewal,Zara (account manager); Mei (customer),mixed
+EXT-033,external,2026-05-04,Adoption & Onboarding,adoption,Raj (account manager); Marcus (customer),mixed
+INT-001,internal,2026-04-02,Cross-Team Escalation,escalation,Naomi (lead); Aisha (eng); Carlos (PM),neg
+INT-002,internal,2026-03-04,Sprint Planning,sprint,Elena (lead); Marcus (eng); Priya (PM),mixed
+INT-003,internal,2026-02-07,Sprint Planning,sprint,Fatima (lead); Devin (eng); Jonas (PM),mixed
+INT-004,internal,2026-06-10,Incident & Postmortem,incident,Devin (lead); Raj (eng); Ben (PM),neg
+INT-005,internal,2026-02-25,Incident & Postmortem,incident,Elena (lead); Jonas (eng); Tomás (PM),neg
+INT-006,internal,2026-01-16,Team & Hiring,hiring,Liam (lead); Mei (eng); Carlos (PM),mixed
+INT-007,internal,2026-04-23,Cross-Team Escalation,escalation,Fatima (lead); Devin (eng); Carlos (PM),neg
+INT-008,internal,2026-02-20,Roadmap & Planning,roadmap,Owen (lead); Aisha (eng); Zara (PM),pos
+INT-009,internal,2026-03-09,Sprint Planning,sprint,Elena (lead); Aisha (eng); Yuki (PM),mixed
+INT-010,internal,2026-03-30,Cross-Team Escalation,escalation,Raj (lead); Fatima (eng); Hannah (PM),neg
+INT-011,internal,2026-01-08,Sprint Planning,sprint,Owen (lead); Hannah (eng); Elena (PM),mixed
+INT-012,internal,2026-05-07,Incident & Postmortem,incident,Fatima (lead); Yuki (eng); Priya (PM),neg
+INT-013,internal,2026-06-24,Roadmap & Planning,roadmap,Jonas (lead); Liam (eng); Fatima (PM),pos
+INT-014,internal,2026-05-02,Sprint Planning,sprint,Aisha (lead); Ben (eng); Aisha (PM),mixed
+INT-015,internal,2026-05-23,Team & Hiring,hiring,Raj (lead); Hannah (eng); Hannah (PM),mixed
+INT-016,internal,2026-02-24,Sprint Planning,sprint,Ben (lead); Tomás (eng); Liam (PM),mixed
+INT-017,internal,2026-01-17,Team & Hiring,hiring,Marcus (lead); Mei (eng); Ben (PM),mixed
+INT-018,internal,2026-03-19,Cross-Team Escalation,escalation,Fatima (lead); Fatima (eng); Yuki (PM),neg
+INT-019,internal,2026-01-22,Roadmap & Planning,roadmap,Naomi (lead); Fatima (eng); Elena (PM),pos
+INT-020,internal,2026-03-24,Roadmap & Planning,roadmap,Elena (lead); Tomás (eng); Devin (PM),pos
+INT-021,internal,2026-04-29,Cross-Team Escalation,escalation,Ben (lead); Jonas (eng); Carlos (PM),neg
+INT-022,internal,2026-06-15,Sprint Planning,sprint,Hannah (lead); Aisha (eng); Elena (PM),mixed
+INT-023,internal,2026-01-06,Architecture & Tech Debt,architecture,Carlos (lead); Yuki (eng); Zara (PM),mixed
+INT-024,internal,2026-03-19,Cross-Team Escalation,escalation,Yuki (lead); Elena (eng); Tomás (PM),neg
+INT-025,internal,2026-03-04,Incident & Postmortem,incident,Sofia (lead); Aisha (eng); Sofia (PM),neg
+INT-026,internal,2026-02-06,Cross-Team Escalation,escalation,Yuki (lead); Ben (eng); Naomi (PM),neg
+INT-027,internal,2026-01-16,Cross-Team Escalation,escalation,Carlos (lead); Grace (eng); Zara (PM),neg
+INT-028,internal,2026-03-15,Architecture & Tech Debt,architecture,Jonas (lead); Marcus (eng); Raj (PM),mixed
+INT-029,internal,2026-04-27,Cross-Team Escalation,escalation,Fatima (lead); Elena (eng); Fatima (PM),neg
+INT-030,internal,2026-03-31,Team & Hiring,hiring,Carlos (lead); Fatima (eng); Ben (PM),mixed
+INT-031,internal,2026-03-11,Roadmap & Planning,roadmap,Grace (lead); Devin (eng); Naomi (PM),pos
+INT-032,internal,2026-05-18,Team & Hiring,hiring,Liam (lead); Zara (eng); Fatima (PM),mixed
+INT-033,internal,2026-02-08,Incident & Postmortem,incident,Ben (lead); Yuki (eng); Fatima (PM),neg
+SUP-001,support,2026-06-18,Data & Reporting,data,Devin (agent); Priya (customer),mixed
+SUP-002,support,2026-06-06,Billing & Invoicing,billing,Carlos (agent); Marcus (customer),neg
+SUP-003,support,2026-06-21,Login & Authentication,auth,Mei (agent); Carlos (customer),mixed
+SUP-004,support,2026-03-18,Feature Requests,feature_req,Sofia (agent); Hannah (customer),mixed
+SUP-005,support,2026-04-04,Feature Requests,feature_req,Zara (agent); Aisha (customer),mixed
+SUP-006,support,2026-05-27,Feature Requests,feature_req,Ben (agent); Zara (customer),mixed
+SUP-007,support,2026-03-21,Feature Requests,feature_req,Elena (agent); Tomás (customer),mixed
+SUP-008,support,2026-04-10,Data & Reporting,data,Liam (agent); Hannah (customer),mixed
+SUP-009,support,2026-02-16,API Errors & Integration,api_error,Yuki (agent); Naomi (customer),neg
+SUP-010,support,2026-04-18,Login & Authentication,auth,Aisha (agent); Elena (customer),mixed
+SUP-011,support,2026-02-11,Login & Authentication,auth,Aisha (agent); Sofia (customer),mixed
+SUP-012,support,2026-02-10,Billing & Invoicing,billing,Owen (agent); Fatima (customer),neg
+SUP-013,support,2026-06-07,Performance & Reliability,performance,Elena (agent); Naomi (customer),neg
+SUP-014,support,2026-06-19,API Errors & Integration,api_error,Grace (agent); Devin (customer),neg
+SUP-015,support,2026-05-15,Feature Requests,feature_req,Devin (agent); Ben (customer),mixed
+SUP-016,support,2026-05-11,API Errors & Integration,api_error,Priya (agent); Devin (customer),neg
+SUP-017,support,2026-05-10,Feature Requests,feature_req,Elena (agent); Mei (customer),mixed
+SUP-018,support,2026-05-21,Login & Authentication,auth,Zara (agent); Carlos (customer),mixed
+SUP-019,support,2026-05-18,Login & Authentication,auth,Yuki (agent); Devin (customer),mixed
+SUP-020,support,2026-01-07,Login & Authentication,auth,Elena (agent); Marcus (customer),mixed
+SUP-021,support,2026-06-26,How-To & Configuration,howto,Fatima (agent); Hannah (customer),pos
+SUP-022,support,2026-01-30,API Errors & Integration,api_error,Devin (agent); Carlos (customer),neg
+SUP-023,support,2026-01-21,Feature Requests,feature_req,Naomi (agent); Grace (customer),mixed
+SUP-024,support,2026-04-24,Performance & Reliability,performance,Raj (agent); Aisha (customer),neg
+SUP-025,support,2026-06-21,Billing & Invoicing,billing,Mei (agent); Priya (customer),neg
+SUP-026,support,2026-04-18,Performance & Reliability,performance,Marcus (agent); Raj (customer),neg
+SUP-027,support,2026-05-28,Login & Authentication,auth,Fatima (agent); Sofia (customer),mixed
+SUP-028,support,2026-01-20,Performance & Reliability,performance,Marcus (agent); Jonas (customer),neg
+SUP-029,support,2026-06-07,Performance & Reliability,performance,Elena (agent); Tomás (customer),neg
+SUP-030,support,2026-04-23,How-To & Configuration,howto,Jonas (agent); Jonas (customer),pos
+SUP-031,support,2026-03-14,Data & Reporting,data,Naomi (agent); Sofia (customer),mixed
+SUP-032,support,2026-06-14,Billing & Invoicing,billing,Jonas (agent); Devin (customer),neg
+SUP-033,support,2026-04-10,Performance & Reliability,performance,Ben (agent); Raj (customer),neg

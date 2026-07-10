@@ -1,0 +1,12 @@
+Call ID: INT-024
+Type: internal
+Date: 2026-03-19
+Topic: Cross-Team Escalation
+Participants: Yuki (lead); Elena (eng); Tomás (PM)
+------------------------------------------------------------
+Lead (Yuki): The account team says a major customer is at churn risk over outages.
+Eng (Elena): Compliance work is scoped but competing with the analytics roadmap.
+PM (Tomás): From the product side, customers are definitely feeling this.
+Eng (Elena): We're seeing the billing duplicate-charge bug in the logs too.
+Lead (Yuki): Let's be honest that morale takes a hit every time this recurs.
+PM (Tomás): I'll document the decisions and owners and share the notes.

@@ -1,0 +1,13 @@
+Call ID: EXT-010
+Type: external
+Date: 2026-03-05
+Topic: Quarterly Business Review
+Participants: Tomás (account manager); Priya (customer)
+------------------------------------------------------------
+AM (Tomás): Hi Priya, thanks for making time today. How are things going on your side?
+Customer (Priya): We want to align on goals and success metrics for next quarter.
+AM (Tomás): I've prepared a scorecard of your key metrics and wins.
+Customer (Priya): The team is generally positive, but there are gaps.
+AM (Tomás): Let's set two or three concrete goals we can track together.
+Customer (Priya): This is exactly the partnership we were hoping for. Excited to expand.
+AM (Tomás): Thank you — I'll send a recap with clear next steps and owners by end of day.

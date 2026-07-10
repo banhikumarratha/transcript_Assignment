@@ -1,0 +1,14 @@
+Call ID: SUP-001
+Type: support
+Date: 2026-06-18
+Topic: Data & Reporting
+Participants: Devin (agent); Priya (customer)
+------------------------------------------------------------
+Agent (Devin): Thanks for calling support, this is Devin. How can I help today?
+Customer (Priya): Timezone handling in the reports is off by a day for us.
+Agent (Devin): I'll open a data investigation and confirm nothing was dropped.
+Customer (Priya): Sure, one moment.
+Agent (Devin): Let me reconcile the export against the live view.
+Customer (Priya): Thanks, that clears up most of it — I'll try what you suggested.
+Agent (Devin): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Priya): No, that's all for now.

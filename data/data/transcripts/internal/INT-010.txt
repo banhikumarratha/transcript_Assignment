@@ -1,0 +1,12 @@
+Call ID: INT-010
+Type: internal
+Date: 2026-03-30
+Topic: Cross-Team Escalation
+Participants: Raj (lead); Fatima (eng); Hannah (PM)
+------------------------------------------------------------
+Lead (Raj): The account team says a major customer is at churn risk over outages.
+Eng (Fatima): Reliability has to be our top priority if renewals are on the line.
+PM (Hannah): Let's make sure we capture this in the roadmap tradeoffs.
+Eng (Fatima): Compliance work is scoped but competing with the analytics roadmap.
+Lead (Raj): Let's be honest that morale takes a hit every time this recurs.
+PM (Hannah): I'll document the decisions and owners and share the notes.

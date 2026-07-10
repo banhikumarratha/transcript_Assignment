@@ -1,0 +1,12 @@
+Call ID: INT-007
+Type: internal
+Date: 2026-04-23
+Topic: Cross-Team Escalation
+Participants: Fatima (lead); Devin (eng); Carlos (PM)
+------------------------------------------------------------
+Lead (Fatima): Sales is blocked on a deal that needs the compliance feature.
+Eng (Devin): Compliance work is scoped but competing with the analytics roadmap.
+PM (Carlos): We need to weigh this against what we promised the field.
+Eng (Devin): Reliability has to be our top priority if renewals are on the line.
+Lead (Fatima): We're accumulating risk here. Leadership needs to hear it.
+PM (Carlos): I'll document the decisions and owners and share the notes.

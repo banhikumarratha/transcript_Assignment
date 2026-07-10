@@ -1,0 +1,12 @@
+Call ID: INT-009
+Type: internal
+Date: 2026-03-09
+Topic: Sprint Planning
+Participants: Elena (lead); Aisha (eng); Yuki (PM)
+------------------------------------------------------------
+Lead (Elena): We need to size the SSO reliability work before we commit.
+Eng (Aisha): Let's carve SSO into a spike plus an implementation ticket.
+PM (Yuki): From the product side, customers are definitely feeling this.
+Eng (Aisha): We can commit to a beta if we cut scope on the export piece.
+Lead (Elena): Reasonable trade-offs. I'll write up the decision.
+PM (Yuki): I'll document the decisions and owners and share the notes.

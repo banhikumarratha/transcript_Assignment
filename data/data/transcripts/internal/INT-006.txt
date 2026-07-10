@@ -1,0 +1,12 @@
+Call ID: INT-006
+Type: internal
+Date: 2026-01-16
+Topic: Team & Hiring
+Participants: Liam (lead); Mei (eng); Carlos (PM)
+------------------------------------------------------------
+Lead (Liam): Let's plan the ramp for the two new engineers starting soon.
+Eng (Mei): I'll draft an onboarding plan so the new folks are productive fast.
+PM (Carlos): Let's make sure we capture this in the roadmap tradeoffs.
+Eng (Mei): Let's open a backfill req and rebalance on-call in the meantime.
+Lead (Liam): Good discussion. Let's lock the scope and revisit Friday.
+PM (Carlos): I'll document the decisions and owners and share the notes.

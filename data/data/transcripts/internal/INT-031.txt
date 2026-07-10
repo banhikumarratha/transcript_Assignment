@@ -1,0 +1,12 @@
+Call ID: INT-031
+Type: internal
+Date: 2026-03-11
+Topic: Roadmap & Planning
+Participants: Grace (lead); Devin (eng); Naomi (PM)
+------------------------------------------------------------
+Lead (Grace): We need to balance new features against the reliability backlog.
+Eng (Devin): I'd argue reliability has to come first given recent incidents.
+PM (Naomi): From the product side, customers are definitely feeling this.
+Eng (Devin): We can ship two flagship features if we hold the line on scope.
+Lead (Grace): Solid plan. I think we're in good shape heading into next quarter.
+PM (Naomi): I'll document the decisions and owners and share the notes.

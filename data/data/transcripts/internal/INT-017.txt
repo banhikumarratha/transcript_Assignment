@@ -1,0 +1,12 @@
+Call ID: INT-017
+Type: internal
+Date: 2026-01-17
+Topic: Team & Hiring
+Participants: Marcus (lead); Mei (eng); Ben (PM)
+------------------------------------------------------------
+Lead (Marcus): We're stretched thin on the platform team and need to hire.
+Eng (Mei): Let's open a backfill req and rebalance on-call in the meantime.
+PM (Ben): From the product side, customers are definitely feeling this.
+Eng (Mei): I'll draft an onboarding plan so the new folks are productive fast.
+Lead (Marcus): Let's commit to what's realistic and not overpromise.
+PM (Ben): I'll document the decisions and owners and share the notes.
