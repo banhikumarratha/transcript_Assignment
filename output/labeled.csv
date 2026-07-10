@@ -1,0 +1,793 @@
+call_id,call_type,date,topic,topic_key,participants,sentiment_seed,text,voice_text,category,category_reason
+EXT-001,external,2026-02-09,Renewal Negotiation,renewal,Aisha (account manager); Devin (customer),mixed,"--------------------
+AM (Aisha): Hi Devin, thanks for making time today. How are things going on your side?
+Customer (Devin): The renewal quote came in higher than we budgeted for.
+AM (Aisha): I can put together an ROI summary you can take to your CFO.
+Customer (Devin): The team is generally positive, but there are gaps.
+AM (Aisha): I'd love to walk through the value you've realized this year.
+Customer (Devin): I feel better about the direction. Let's check in again soon.
+AM (Aisha): Thank you — I'll send a recap with clear next steps and owners by end of day.","The renewal quote came in higher than we budgeted for. The team is generally positive, but there are gaps. I feel better about the direction. Let's check in again soon.",Renewal & Commercial,Discussing renewal quote being higher than budgeted and showing ROI.
+EXT-002,external,2026-02-28,Quarterly Business Review,qbr,Grace (account manager); Hannah (customer),pos,"--------------------
+AM (Grace): Hi Hannah, thanks for making time today. How are things going on your side?
+Customer (Hannah): Leadership wants to see measurable impact from this investment.
+AM (Grace): Here's how your outcomes compare to similar teams in your industry.
+Customer (Hannah): Numbers matter to us — show me the impact.
+AM (Grace): Let's set two or three concrete goals we can track together.
+Customer (Hannah): Great session — my team is going to be thrilled with this.
+AM (Grace): Thank you — I'll send a recap with clear next steps and owners by end of day.",Leadership wants to see measurable impact from this investment. Numbers matter to us — show me the impact. Great session — my team is going to be thrilled with this.,Data & Reporting,"Discussing measurable impact, outcomes, metrics, and tracking goals."
+EXT-003,external,2026-01-19,Adoption & Onboarding,adoption,Elena (account manager); Carlos (customer),mixed,"--------------------
+AM (Elena): Hi Carlos, thanks for making time today. How are things going on your side?
+Customer (Carlos): Only a handful of our users are logging in regularly.
+AM (Elena): Let's look at the usage data and find where people drop off.
+Customer (Carlos): We've had a mixed experience, to be candid.
+AM (Elena): We have an onboarding track that could help your new hires ramp faster.
+Customer (Carlos): I feel better about the direction. Let's check in again soon.
+AM (Elena): Thank you — I'll send a recap with clear next steps and owners by end of day.","Only a handful of our users are logging in regularly. We've had a mixed experience, to be candid. I feel better about the direction. Let's check in again soon.",Adoption & Enablement,Discussing low regular user login and onboarding new hires.
+EXT-004,external,2026-03-14,Churn Risk & Escalation,churn_risk,Raj (account manager); Yuki (customer),neg,"--------------------
+AM (Raj): Hi Yuki, thanks for making time today. How are things going on your side?
+Customer (Yuki): If we can't get the compliance features, we may have to move on.
+AM (Raj): Let me get you a firm commitment on the compliance roadmap.
+Customer (Yuki): That would help. Our leadership pays close attention to this.
+AM (Raj): I'll escalate the reliability concerns to our VP directly.
+Customer (Yuki): I appreciate the candor, but we'll need to see real change fast.
+AM (Raj): Thank you — I'll send a recap with clear next steps and owners by end of day.","If we can't get the compliance features, we may have to move on. That would help. Our leadership pays close attention to this. I appreciate the candor, but we'll need to see real change fast.",Product Feedback & Roadmap,Discussing compliance features and compliance roadmap commitment.
+EXT-005,external,2026-01-25,Renewal Negotiation,renewal,Sofia (account manager); Mei (customer),mixed,"--------------------
+AM (Sofia): Hi Mei, thanks for making time today. How are things going on your side?
+Customer (Mei): The renewal quote came in higher than we budgeted for.
+AM (Sofia): Let's look at your usage — you've grown into a higher tier organically.
+Customer (Mei): We've had a mixed experience, to be candid.
+AM (Sofia): I'd love to walk through the value you've realized this year.
+Customer (Mei): This was helpful. Let's keep the momentum going.
+AM (Sofia): Thank you — I'll send a recap with clear next steps and owners by end of day.","The renewal quote came in higher than we budgeted for. We've had a mixed experience, to be candid. This was helpful. Let's keep the momentum going.",Renewal & Commercial,Addressing a renewal quote hike due to organic usage growth.
+EXT-006,external,2026-03-25,Adoption & Onboarding,adoption,Liam (account manager); Marcus (customer),mixed,"--------------------
+AM (Liam): Hi Marcus, thanks for making time today. How are things going on your side?
+Customer (Marcus): Our new hires are struggling to get onboarded to the tool.
+AM (Liam): Let's look at the usage data and find where people drop off.
+Customer (Marcus): That would help. Our leadership pays close attention to this.
+AM (Liam): We have an onboarding track that could help your new hires ramp faster.
+Customer (Marcus): Good conversation — send me that summary and we'll align internally.
+AM (Liam): Thank you — I'll send a recap with clear next steps and owners by end of day.",Our new hires are struggling to get onboarded to the tool. That would help. Our leadership pays close attention to this. Good conversation — send me that summary and we'll align internally.,Adoption & Enablement,Assisting new hires struggling with onboarding and ramp times.
+EXT-007,external,2026-05-29,Quarterly Business Review,qbr,Carlos (account manager); Zara (customer),pos,"--------------------
+AM (Carlos): Hi Zara, thanks for making time today. How are things going on your side?
+Customer (Zara): Let's use today to review how the last quarter went.
+AM (Carlos): I've prepared a scorecard of your key metrics and wins.
+Customer (Zara): We've had a mixed experience, to be candid.
+AM (Carlos): Here's how your outcomes compare to similar teams in your industry.
+Customer (Zara): Great session — my team is going to be thrilled with this.
+AM (Carlos): Thank you — I'll send a recap with clear next steps and owners by end of day.","Let's use today to review how the last quarter went. We've had a mixed experience, to be candid. Great session — my team is going to be thrilled with this.",Data & Reporting,Reviewing quarterly metrics scorecard and comparing performance outcomes.
+EXT-008,external,2026-01-12,Product Feedback,feedback,Raj (account manager); Grace (customer),mixed,"--------------------
+AM (Raj): Hi Grace, thanks for making time today. How are things going on your side?
+Customer (Grace): The reporting is powerful but the learning curve is steep.
+AM (Raj): Let me connect you with our product team for a feedback session.
+Customer (Grace): We've had a mixed experience, to be candid.
+AM (Raj): That's really useful — I'll get this to product with your context.
+Customer (Grace): I feel better about the direction. Let's check in again soon.
+AM (Raj): Thank you — I'll send a recap with clear next steps and owners by end of day.","The reporting is powerful but the learning curve is steep. We've had a mixed experience, to be candid. I feel better about the direction. Let's check in again soon.",Product Feedback & Roadmap,Gathering usability feedback on reporting learning curve for product.
+EXT-009,external,2026-02-02,Product Feedback,feedback,Naomi (account manager); Marcus (customer),mixed,"--------------------
+AM (Naomi): Hi Marcus, thanks for making time today. How are things going on your side?
+Customer (Marcus): The reporting is powerful but the learning curve is steep.
+AM (Naomi): That's really useful — I'll get this to product with your context.
+Customer (Marcus): The team is generally positive, but there are gaps.
+AM (Naomi): Let me connect you with our product team for a feedback session.
+Customer (Marcus): Good conversation — send me that summary and we'll align internally.
+AM (Naomi): Thank you — I'll send a recap with clear next steps and owners by end of day.","The reporting is powerful but the learning curve is steep. The team is generally positive, but there are gaps. Good conversation — send me that summary and we'll align internally.",Product Feedback & Roadmap,Connecting customer with product team regarding reporting usability gaps.
+EXT-010,external,2026-03-05,Quarterly Business Review,qbr,Tomás (account manager); Priya (customer),pos,"--------------------
+AM (Tomás): Hi Priya, thanks for making time today. How are things going on your side?
+Customer (Priya): We want to align on goals and success metrics for next quarter.
+AM (Tomás): I've prepared a scorecard of your key metrics and wins.
+Customer (Priya): The team is generally positive, but there are gaps.
+AM (Tomás): Let's set two or three concrete goals we can track together.
+Customer (Priya): This is exactly the partnership we were hoping for. Excited to expand.
+AM (Tomás): Thank you — I'll send a recap with clear next steps and owners by end of day.","We want to align on goals and success metrics for next quarter. The team is generally positive, but there are gaps. This is exactly the partnership we were hoping for. Excited to expand.",Data & Reporting,Aligning on key performance success metrics and goals scorecard.
+EXT-011,external,2026-03-18,Product Feedback,feedback,Liam (account manager); Owen (customer),mixed,"--------------------
+AM (Liam): Hi Owen, thanks for making time today. How are things going on your side?
+Customer (Owen): My team keeps asking for a better mobile experience.
+AM (Liam): Let me connect you with our product team for a feedback session.
+Customer (Owen): That would help. Our leadership pays close attention to this.
+AM (Liam): I'll flag the usability feedback; we're actively investing there.
+Customer (Owen): Good conversation — send me that summary and we'll align internally.
+AM (Liam): Thank you — I'll send a recap with clear next steps and owners by end of day.",My team keeps asking for a better mobile experience. That would help. Our leadership pays close attention to this. Good conversation — send me that summary and we'll align internally.,Product Feedback & Roadmap,Gathering and flagging product feedback regarding mobile experience.
+EXT-012,external,2026-02-20,Renewal Negotiation,renewal,Jonas (account manager); Aisha (customer),mixed,"--------------------
+AM (Jonas): Hi Aisha, thanks for making time today. How are things going on your side?
+Customer (Aisha): The renewal quote came in higher than we budgeted for.
+AM (Jonas): I'd love to walk through the value you've realized this year.
+Customer (Aisha): The team is generally positive, but there are gaps.
+AM (Jonas): Let's look at your usage — you've grown into a higher tier organically.
+Customer (Aisha): Good conversation — send me that summary and we'll align internally.
+AM (Jonas): Thank you — I'll send a recap with clear next steps and owners by end of day.","The renewal quote came in higher than we budgeted for. The team is generally positive, but there are gaps. Good conversation — send me that summary and we'll align internally.",Renewal & Commercial,Reviewing renewal pricing objections and organic tier growth.
+EXT-013,external,2026-06-10,Product Feedback,feedback,Owen (account manager); Devin (customer),mixed,"--------------------
+AM (Owen): Hi Devin, thanks for making time today. How are things going on your side?
+Customer (Devin): The reporting is powerful but the learning curve is steep.
+AM (Owen): Let me connect you with our product team for a feedback session.
+Customer (Devin): That would help. Our leadership pays close attention to this.
+AM (Owen): That's really useful — I'll get this to product with your context.
+Customer (Devin): I feel better about the direction. Let's check in again soon.
+AM (Owen): Thank you — I'll send a recap with clear next steps and owners by end of day.",The reporting is powerful but the learning curve is steep. That would help. Our leadership pays close attention to this. I feel better about the direction. Let's check in again soon.,Product Feedback & Roadmap,Escalating learning curve feedback on reporting to product team.
+EXT-014,external,2026-04-27,Churn Risk & Escalation,churn_risk,Priya (account manager); Owen (customer),neg,"--------------------
+AM (Priya): Hi Owen, thanks for making time today. How are things going on your side?
+Customer (Owen): The outages last quarter really shook our confidence.
+AM (Priya): Let me get you a firm commitment on the compliance roadmap.
+Customer (Owen): Numbers matter to us — show me the impact.
+AM (Priya): I hear you, and I want to make this right — let's build a plan.
+Customer (Owen): I appreciate the candor, but we'll need to see real change fast.
+AM (Priya): Thank you — I'll send a recap with clear next steps and owners by end of day.","The outages last quarter really shook our confidence. Numbers matter to us — show me the impact. I appreciate the candor, but we'll need to see real change fast.",Reliability & Performance,Addressing customer's shaken confidence due to last quarter's outages.
+EXT-015,external,2026-06-25,Adoption & Onboarding,adoption,Grace (account manager); Zara (customer),mixed,"--------------------
+AM (Grace): Hi Zara, thanks for making time today. How are things going on your side?
+Customer (Zara): Our new hires are struggling to get onboarded to the tool.
+AM (Grace): We have an onboarding track that could help your new hires ramp faster.
+Customer (Zara): The team is generally positive, but there are gaps.
+AM (Grace): Let's look at the usage data and find where people drop off.
+Customer (Zara): I feel better about the direction. Let's check in again soon.
+AM (Grace): Thank you — I'll send a recap with clear next steps and owners by end of day.","Our new hires are struggling to get onboarded to the tool. The team is generally positive, but there are gaps. I feel better about the direction. Let's check in again soon.",Adoption & Enablement,Resolving onboarding struggles with specialized tracks and usage reviews.
+EXT-016,external,2026-03-26,Product Feedback,feedback,Carlos (account manager); Grace (customer),mixed,"--------------------
+AM (Carlos): Hi Grace, thanks for making time today. How are things going on your side?
+Customer (Grace): We love the core product but the integrations feel limited.
+AM (Carlos): Let me connect you with our product team for a feedback session.
+Customer (Grace): We've had a mixed experience, to be candid.
+AM (Carlos): I'll flag the usability feedback; we're actively investing there.
+Customer (Grace): This was helpful. Let's keep the momentum going.
+AM (Carlos): Thank you — I'll send a recap with clear next steps and owners by end of day.","We love the core product but the integrations feel limited. We've had a mixed experience, to be candid. This was helpful. Let's keep the momentum going.",API & Integrations,Collecting feedback about limited integration capabilities for product team.
+EXT-017,external,2026-04-23,Churn Risk & Escalation,churn_risk,Naomi (account manager); Raj (customer),neg,"--------------------
+AM (Naomi): Hi Raj, thanks for making time today. How are things going on your side?
+Customer (Raj): The outages last quarter really shook our confidence.
+AM (Naomi): Let me get you a firm commitment on the compliance roadmap.
+Customer (Raj): That would help. Our leadership pays close attention to this.
+AM (Naomi): I'll escalate the reliability concerns to our VP directly.
+Customer (Raj): Let's reconvene in two weeks — the clock is ticking for us.
+AM (Naomi): Thank you — I'll send a recap with clear next steps and owners by end of day.",The outages last quarter really shook our confidence. That would help. Our leadership pays close attention to this. Let's reconvene in two weeks — the clock is ticking for us.,Reliability & Performance,Escalating reliability concerns and outages to leadership.
+EXT-018,external,2026-03-20,Churn Risk & Escalation,churn_risk,Hannah (account manager); Carlos (customer),neg,"--------------------
+AM (Hannah): Hi Carlos, thanks for making time today. How are things going on your side?
+Customer (Carlos): The outages last quarter really shook our confidence.
+AM (Hannah): Let me get you a firm commitment on the compliance roadmap.
+Customer (Carlos): Numbers matter to us — show me the impact.
+AM (Hannah): I'll escalate the reliability concerns to our VP directly.
+Customer (Carlos): Let's reconvene in two weeks — the clock is ticking for us.
+AM (Hannah): Thank you — I'll send a recap with clear next steps and owners by end of day.",The outages last quarter really shook our confidence. Numbers matter to us — show me the impact. Let's reconvene in two weeks — the clock is ticking for us.,Reliability & Performance,Escalating platform outages and reliability concerns to VP.
+EXT-019,external,2026-06-27,Product Feedback,feedback,Hannah (account manager); Owen (customer),mixed,"--------------------
+AM (Hannah): Hi Owen, thanks for making time today. How are things going on your side?
+Customer (Owen): We love the core product but the integrations feel limited.
+AM (Hannah): Let me connect you with our product team for a feedback session.
+Customer (Owen): That would help. Our leadership pays close attention to this.
+AM (Hannah): That's really useful — I'll get this to product with your context.
+Customer (Owen): Good conversation — send me that summary and we'll align internally.
+AM (Hannah): Thank you — I'll send a recap with clear next steps and owners by end of day.",We love the core product but the integrations feel limited. That would help. Our leadership pays close attention to this. Good conversation — send me that summary and we'll align internally.,API & Integrations,Collecting feedback about limited integrations to pass to product.
+EXT-020,external,2026-05-17,Renewal Negotiation,renewal,Zara (account manager); Grace (customer),mixed,"--------------------
+AM (Zara): Hi Grace, thanks for making time today. How are things going on your side?
+Customer (Grace): We're up for renewal next month and leadership is scrutinizing every spend.
+AM (Zara): I'd love to walk through the value you've realized this year.
+Customer (Grace): We've had a mixed experience, to be candid.
+AM (Zara): Let's look at your usage — you've grown into a higher tier organically.
+Customer (Grace): This was helpful. Let's keep the momentum going.
+AM (Zara): Thank you — I'll send a recap with clear next steps and owners by end of day.","We're up for renewal next month and leadership is scrutinizing every spend. We've had a mixed experience, to be candid. This was helpful. Let's keep the momentum going.",Renewal & Commercial,Handling commercial renewal under budget scrutiny and growth analysis.
+EXT-021,external,2026-01-12,Product Feedback,feedback,Marcus (account manager); Tomás (customer),mixed,"--------------------
+AM (Marcus): Hi Tomás, thanks for making time today. How are things going on your side?
+Customer (Tomás): The reporting is powerful but the learning curve is steep.
+AM (Marcus): Let me connect you with our product team for a feedback session.
+Customer (Tomás): Numbers matter to us — show me the impact.
+AM (Marcus): That's really useful — I'll get this to product with your context.
+Customer (Tomás): I feel better about the direction. Let's check in again soon.
+AM (Marcus): Thank you — I'll send a recap with clear next steps and owners by end of day.",The reporting is powerful but the learning curve is steep. Numbers matter to us — show me the impact. I feel better about the direction. Let's check in again soon.,Product Feedback & Roadmap,Passing reporting usability feedback directly to the product team.
+EXT-022,external,2026-06-02,Product Feedback,feedback,Hannah (account manager); Naomi (customer),mixed,"--------------------
+AM (Hannah): Hi Naomi, thanks for making time today. How are things going on your side?
+Customer (Naomi): My team keeps asking for a better mobile experience.
+AM (Hannah): I'll flag the usability feedback; we're actively investing there.
+Customer (Naomi): That would help. Our leadership pays close attention to this.
+AM (Hannah): That's really useful — I'll get this to product with your context.
+Customer (Naomi): This was helpful. Let's keep the momentum going.
+AM (Hannah): Thank you — I'll send a recap with clear next steps and owners by end of day.",My team keeps asking for a better mobile experience. That would help. Our leadership pays close attention to this. This was helpful. Let's keep the momentum going.,Product Feedback & Roadmap,Relaying mobile experience usability requests to product.
+EXT-023,external,2026-04-24,Quarterly Business Review,qbr,Tomás (account manager); Raj (customer),pos,"--------------------
+AM (Tomás): Hi Raj, thanks for making time today. How are things going on your side?
+Customer (Raj): Let's use today to review how the last quarter went.
+AM (Tomás): Here's how your outcomes compare to similar teams in your industry.
+Customer (Raj): We've had a mixed experience, to be candid.
+AM (Tomás): Let's set two or three concrete goals we can track together.
+Customer (Raj): This is exactly the partnership we were hoping for. Excited to expand.
+AM (Tomás): Thank you — I'll send a recap with clear next steps and owners by end of day.","Let's use today to review how the last quarter went. We've had a mixed experience, to be candid. This is exactly the partnership we were hoping for. Excited to expand.",Data & Reporting,Reviewing previous quarter metrics and setting concrete goals.
+EXT-024,external,2026-05-02,Quarterly Business Review,qbr,Sofia (account manager); Yuki (customer),pos,"--------------------
+AM (Sofia): Hi Yuki, thanks for making time today. How are things going on your side?
+Customer (Yuki): We want to align on goals and success metrics for next quarter.
+AM (Sofia): Here's how your outcomes compare to similar teams in your industry.
+Customer (Yuki): Numbers matter to us — show me the impact.
+AM (Sofia): Let's set two or three concrete goals we can track together.
+Customer (Yuki): Love it. Let's get the paperwork moving.
+AM (Sofia): Thank you — I'll send a recap with clear next steps and owners by end of day.",We want to align on goals and success metrics for next quarter. Numbers matter to us — show me the impact. Love it. Let's get the paperwork moving.,Data & Reporting,"Establishing and aligning on goals, metrics, and outcomes."
+EXT-025,external,2026-04-30,Product Feedback,feedback,Raj (account manager); Fatima (customer),mixed,"--------------------
+AM (Raj): Hi Fatima, thanks for making time today. How are things going on your side?
+Customer (Fatima): We love the core product but the integrations feel limited.
+AM (Raj): I'll flag the usability feedback; we're actively investing there.
+Customer (Fatima): The team is generally positive, but there are gaps.
+AM (Raj): That's really useful — I'll get this to product with your context.
+Customer (Fatima): I feel better about the direction. Let's check in again soon.
+AM (Raj): Thank you — I'll send a recap with clear next steps and owners by end of day.","We love the core product but the integrations feel limited. The team is generally positive, but there are gaps. I feel better about the direction. Let's check in again soon.",API & Integrations,Relaying feedback about integration limits to the product team.
+EXT-026,external,2026-05-10,Product Feedback,feedback,Tomás (account manager); Aisha (customer),mixed,"--------------------
+AM (Tomás): Hi Aisha, thanks for making time today. How are things going on your side?
+Customer (Aisha): My team keeps asking for a better mobile experience.
+AM (Tomás): That's really useful — I'll get this to product with your context.
+Customer (Aisha): The team is generally positive, but there are gaps.
+AM (Tomás): I'll flag the usability feedback; we're actively investing there.
+Customer (Aisha): Good conversation — send me that summary and we'll align internally.
+AM (Tomás): Thank you — I'll send a recap with clear next steps and owners by end of day.","My team keeps asking for a better mobile experience. The team is generally positive, but there are gaps. Good conversation — send me that summary and we'll align internally.",Product Feedback & Roadmap,Flagging customer requests for mobile usability improvements to product.
+EXT-027,external,2026-03-28,Expansion & Upsell,expansion,Mei (account manager); Elena (customer),pos,"--------------------
+AM (Mei): Hi Elena, thanks for making time today. How are things going on your side?
+Customer (Elena): We're scaling headcount and will need a lot more seats next quarter.
+AM (Mei): That's fantastic — let's scope a rollout plan for the second unit.
+Customer (Elena): We've had a mixed experience, to be candid.
+AM (Mei): Let me set up a demo of the analytics module for your team.
+Customer (Elena): Love it. Let's get the paperwork moving.
+AM (Mei): Thank you — I'll send a recap with clear next steps and owners by end of day.","We're scaling headcount and will need a lot more seats next quarter. We've had a mixed experience, to be candid. Love it. Let's get the paperwork moving.",Renewal & Commercial,Scaling license seats and scoping expansion expansion paperwork.
+EXT-028,external,2026-03-01,Product Feedback,feedback,Elena (account manager); Carlos (customer),mixed,"--------------------
+AM (Elena): Hi Carlos, thanks for making time today. How are things going on your side?
+Customer (Carlos): The reporting is powerful but the learning curve is steep.
+AM (Elena): I'll flag the usability feedback; we're actively investing there.
+Customer (Carlos): That would help. Our leadership pays close attention to this.
+AM (Elena): Let me connect you with our product team for a feedback session.
+Customer (Carlos): This was helpful. Let's keep the momentum going.
+AM (Elena): Thank you — I'll send a recap with clear next steps and owners by end of day.",The reporting is powerful but the learning curve is steep. That would help. Our leadership pays close attention to this. This was helpful. Let's keep the momentum going.,Product Feedback & Roadmap,Logging feedback on reporting learning curve for product team.
+EXT-029,external,2026-04-23,Quarterly Business Review,qbr,Naomi (account manager); Jonas (customer),pos,"--------------------
+AM (Naomi): Hi Jonas, thanks for making time today. How are things going on your side?
+Customer (Jonas): We want to align on goals and success metrics for next quarter.
+AM (Naomi): I've prepared a scorecard of your key metrics and wins.
+Customer (Jonas): That would help. Our leadership pays close attention to this.
+AM (Naomi): Let's set two or three concrete goals we can track together.
+Customer (Jonas): Great session — my team is going to be thrilled with this.
+AM (Naomi): Thank you — I'll send a recap with clear next steps and owners by end of day.",We want to align on goals and success metrics for next quarter. That would help. Our leadership pays close attention to this. Great session — my team is going to be thrilled with this.,Data & Reporting,Reviewing scorecard wins and tracking success goals.
+EXT-030,external,2026-03-23,Churn Risk & Escalation,churn_risk,Naomi (account manager); Carlos (customer),neg,"--------------------
+AM (Naomi): Hi Carlos, thanks for making time today. How are things going on your side?
+Customer (Carlos): The outages last quarter really shook our confidence.
+AM (Naomi): Let me get you a firm commitment on the compliance roadmap.
+Customer (Carlos): We've had a mixed experience, to be candid.
+AM (Naomi): I hear you, and I want to make this right — let's build a plan.
+Customer (Carlos): Let's reconvene in two weeks — the clock is ticking for us.
+AM (Naomi): Thank you — I'll send a recap with clear next steps and owners by end of day.","The outages last quarter really shook our confidence. We've had a mixed experience, to be candid. Let's reconvene in two weeks — the clock is ticking for us.",Reliability & Performance,Managing severe outage issues and customer confidence plan.
+EXT-031,external,2026-04-27,Product Feedback,feedback,Fatima (account manager); Priya (customer),mixed,"--------------------
+AM (Fatima): Hi Priya, thanks for making time today. How are things going on your side?
+Customer (Priya): We love the core product but the integrations feel limited.
+AM (Fatima): I'll flag the usability feedback; we're actively investing there.
+Customer (Priya): We've had a mixed experience, to be candid.
+AM (Fatima): Let me connect you with our product team for a feedback session.
+Customer (Priya): Good conversation — send me that summary and we'll align internally.
+AM (Fatima): Thank you — I'll send a recap with clear next steps and owners by end of day.","We love the core product but the integrations feel limited. We've had a mixed experience, to be candid. Good conversation — send me that summary and we'll align internally.",API & Integrations,Collecting user feedback regarding limited core integrations.
+EXT-032,external,2026-02-07,Renewal Negotiation,renewal,Zara (account manager); Mei (customer),mixed,"--------------------
+AM (Zara): Hi Mei, thanks for making time today. How are things going on your side?
+Customer (Mei): We're up for renewal next month and leadership is scrutinizing every spend.
+AM (Zara): Let's look at your usage — you've grown into a higher tier organically.
+Customer (Mei): Numbers matter to us — show me the impact.
+AM (Zara): I'd love to walk through the value you've realized this year.
+Customer (Mei): This was helpful. Let's keep the momentum going.
+AM (Zara): Thank you — I'll send a recap with clear next steps and owners by end of day.",We're up for renewal next month and leadership is scrutinizing every spend. Numbers matter to us — show me the impact. This was helpful. Let's keep the momentum going.,Renewal & Commercial,Demonstrating ROI and justifying spend for upcoming renewal.
+EXT-033,external,2026-05-04,Adoption & Onboarding,adoption,Raj (account manager); Marcus (customer),mixed,"--------------------
+AM (Raj): Hi Marcus, thanks for making time today. How are things going on your side?
+Customer (Marcus): Honestly, adoption has been slower than we hoped internally.
+AM (Raj): I can run a tailored enablement session for your team.
+Customer (Marcus): Numbers matter to us — show me the impact.
+AM (Raj): We have an onboarding track that could help your new hires ramp faster.
+Customer (Marcus): Good conversation — send me that summary and we'll align internally.
+AM (Raj): Thank you — I'll send a recap with clear next steps and owners by end of day.","Honestly, adoption has been slower than we hoped internally. Numbers matter to us — show me the impact. Good conversation — send me that summary and we'll align internally.",Adoption & Enablement,Addressing slow internal tool adoption with specialized training.
+INT-001,internal,2026-04-02,Cross-Team Escalation,escalation,Naomi (lead); Aisha (eng); Carlos (PM),neg,"--------------------
+Lead (Naomi): Support is escalating a spike in billing complaints to us.
+Eng (Aisha): We're seeing the billing duplicate-charge bug in the logs too.
+PM (Carlos): From the product side, customers are definitely feeling this.
+Eng (Aisha): Reliability has to be our top priority if renewals are on the line.
+Lead (Naomi): We're accumulating risk here. Leadership needs to hear it.
+PM (Carlos): I'll document the decisions and owners and share the notes.","Support is escalating a spike in billing complaints to us. We're seeing the billing duplicate-charge bug in the logs too. From the product side, customers are definitely feeling this. Reliability has to be our top priority if renewals are on the line. We're accumulating risk here. Leadership needs to hear it. I'll document the decisions and owners and share the notes.",Billing & Pricing,Internal alignment on a billing duplicate-charge bug.
+INT-002,internal,2026-03-04,Sprint Planning,sprint,Elena (lead); Marcus (eng); Priya (PM),mixed,"--------------------
+Lead (Elena): Product wants the analytics module in the next two sprints.
+Eng (Marcus): Bulk edit is bigger than it looks; the data model needs work.
+PM (Priya): We need to weigh this against what we promised the field.
+Eng (Marcus): We can commit to a beta if we cut scope on the export piece.
+Lead (Elena): Good discussion. Let's lock the scope and revisit Friday.
+PM (Priya): I'll document the decisions and owners and share the notes.",Product wants the analytics module in the next two sprints. Bulk edit is bigger than it looks; the data model needs work. We need to weigh this against what we promised the field. We can commit to a beta if we cut scope on the export piece. Good discussion. Let's lock the scope and revisit Friday. I'll document the decisions and owners and share the notes.,Product Feedback & Roadmap,Sizing and scoping analytics and bulk edit roadmaps.
+INT-003,internal,2026-02-07,Sprint Planning,sprint,Fatima (lead); Devin (eng); Jonas (PM),mixed,"--------------------
+Lead (Fatima): We need to size the SSO reliability work before we commit.
+Eng (Devin): Let's carve SSO into a spike plus an implementation ticket.
+PM (Jonas): We need to weigh this against what we promised the field.
+Eng (Devin): We can commit to a beta if we cut scope on the export piece.
+Lead (Fatima): Let's commit to what's realistic and not overpromise.
+PM (Jonas): I'll document the decisions and owners and share the notes.",We need to size the SSO reliability work before we commit. Let's carve SSO into a spike plus an implementation ticket. We need to weigh this against what we promised the field. We can commit to a beta if we cut scope on the export piece. Let's commit to what's realistic and not overpromise. I'll document the decisions and owners and share the notes.,Authentication & Access,Sizing SSO reliability work and mapping implementation tickets.
+INT-004,internal,2026-06-10,Incident & Postmortem,incident,Devin (lead); Raj (eng); Ben (PM),neg,"--------------------
+Lead (Devin): The billing service went down during peak and customers noticed.
+Eng (Raj): Action item: add a circuit breaker and backfill the failed jobs.
+PM (Ben): I'll take the customer-comms angle on this.
+Eng (Raj): Root cause was a bad deploy that overwhelmed the webhook queue.
+Lead (Devin): We're accumulating risk here. Leadership needs to hear it.
+PM (Ben): I'll document the decisions and owners and share the notes.",The billing service went down during peak and customers noticed. Action item: add a circuit breaker and backfill the failed jobs. I'll take the customer-comms angle on this. Root cause was a bad deploy that overwhelmed the webhook queue. We're accumulating risk here. Leadership needs to hear it. I'll document the decisions and owners and share the notes.,Reliability & Performance,Post-incident review of a billing service peak outage.
+INT-005,internal,2026-02-25,Incident & Postmortem,incident,Elena (lead); Jonas (eng); Tomás (PM),neg,"--------------------
+Lead (Elena): We had a partial outage in the EU region overnight.
+Eng (Jonas): Action item: add a circuit breaker and backfill the failed jobs.
+PM (Tomás): From the product side, customers are definitely feeling this.
+Eng (Jonas): We need better alerting; we found out from customers first.
+Lead (Elena): Let's be honest that morale takes a hit every time this recurs.
+PM (Tomás): I'll document the decisions and owners and share the notes.","We had a partial outage in the EU region overnight. Action item: add a circuit breaker and backfill the failed jobs. From the product side, customers are definitely feeling this. We need better alerting; we found out from customers first. Let's be honest that morale takes a hit every time this recurs. I'll document the decisions and owners and share the notes.",Reliability & Performance,Addressing regional server outages and inadequate customer alerting.
+INT-006,internal,2026-01-16,Team & Hiring,hiring,Liam (lead); Mei (eng); Carlos (PM),mixed,"--------------------
+Lead (Liam): Let's plan the ramp for the two new engineers starting soon.
+Eng (Mei): I'll draft an onboarding plan so the new folks are productive fast.
+PM (Carlos): Let's make sure we capture this in the roadmap tradeoffs.
+Eng (Mei): Let's open a backfill req and rebalance on-call in the meantime.
+Lead (Liam): Good discussion. Let's lock the scope and revisit Friday.
+PM (Carlos): I'll document the decisions and owners and share the notes.",Let's plan the ramp for the two new engineers starting soon. I'll draft an onboarding plan so the new folks are productive fast. Let's make sure we capture this in the roadmap tradeoffs. Let's open a backfill req and rebalance on-call in the meantime. Good discussion. Let's lock the scope and revisit Friday. I'll document the decisions and owners and share the notes.,Adoption & Enablement,Planning onboarding for two incoming engineering hires.
+INT-007,internal,2026-04-23,Cross-Team Escalation,escalation,Fatima (lead); Devin (eng); Carlos (PM),neg,"--------------------
+Lead (Fatima): Sales is blocked on a deal that needs the compliance feature.
+Eng (Devin): Compliance work is scoped but competing with the analytics roadmap.
+PM (Carlos): We need to weigh this against what we promised the field.
+Eng (Devin): Reliability has to be our top priority if renewals are on the line.
+Lead (Fatima): We're accumulating risk here. Leadership needs to hear it.
+PM (Carlos): I'll document the decisions and owners and share the notes.",Sales is blocked on a deal that needs the compliance feature. Compliance work is scoped but competing with the analytics roadmap. We need to weigh this against what we promised the field. Reliability has to be our top priority if renewals are on the line. We're accumulating risk here. Leadership needs to hear it. I'll document the decisions and owners and share the notes.,Product Feedback & Roadmap,Prioritizing a compliance feature blocking sales versus analytics.
+INT-008,internal,2026-02-20,Roadmap & Planning,roadmap,Owen (lead); Aisha (eng); Zara (PM),pos,"--------------------
+Lead (Owen): We need to balance new features against the reliability backlog.
+Eng (Aisha): We can ship two flagship features if we hold the line on scope.
+PM (Zara): Let's make sure we capture this in the roadmap tradeoffs.
+Eng (Aisha): Let's tie each roadmap item to a customer or revenue signal.
+Lead (Owen): Great alignment — let's execute.
+PM (Zara): I'll document the decisions and owners and share the notes.",We need to balance new features against the reliability backlog. We can ship two flagship features if we hold the line on scope. Let's make sure we capture this in the roadmap tradeoffs. Let's tie each roadmap item to a customer or revenue signal. Great alignment — let's execute. I'll document the decisions and owners and share the notes.,Product Feedback & Roadmap,Balancing new feature releases against reliability backlog priorities.
+INT-009,internal,2026-03-09,Sprint Planning,sprint,Elena (lead); Aisha (eng); Yuki (PM),mixed,"--------------------
+Lead (Elena): We need to size the SSO reliability work before we commit.
+Eng (Aisha): Let's carve SSO into a spike plus an implementation ticket.
+PM (Yuki): From the product side, customers are definitely feeling this.
+Eng (Aisha): We can commit to a beta if we cut scope on the export piece.
+Lead (Elena): Reasonable trade-offs. I'll write up the decision.
+PM (Yuki): I'll document the decisions and owners and share the notes.","We need to size the SSO reliability work before we commit. Let's carve SSO into a spike plus an implementation ticket. From the product side, customers are definitely feeling this. We can commit to a beta if we cut scope on the export piece. Reasonable trade-offs. I'll write up the decision. I'll document the decisions and owners and share the notes.",Authentication & Access,Sizing single sign-on (SSO) scope and tickets.
+INT-010,internal,2026-03-30,Cross-Team Escalation,escalation,Raj (lead); Fatima (eng); Hannah (PM),neg,"--------------------
+Lead (Raj): The account team says a major customer is at churn risk over outages.
+Eng (Fatima): Reliability has to be our top priority if renewals are on the line.
+PM (Hannah): Let's make sure we capture this in the roadmap tradeoffs.
+Eng (Fatima): Compliance work is scoped but competing with the analytics roadmap.
+Lead (Raj): Let's be honest that morale takes a hit every time this recurs.
+PM (Hannah): I'll document the decisions and owners and share the notes.",The account team says a major customer is at churn risk over outages. Reliability has to be our top priority if renewals are on the line. Let's make sure we capture this in the roadmap tradeoffs. Compliance work is scoped but competing with the analytics roadmap. Let's be honest that morale takes a hit every time this recurs. I'll document the decisions and owners and share the notes.,Reliability & Performance,Mitigating customer churn risk resulting from platform outages.
+INT-011,internal,2026-01-08,Sprint Planning,sprint,Owen (lead); Hannah (eng); Elena (PM),mixed,"--------------------
+Lead (Owen): We need to size the SSO reliability work before we commit.
+Eng (Hannah): We can commit to a beta if we cut scope on the export piece.
+PM (Elena): We need to weigh this against what we promised the field.
+Eng (Hannah): Let's carve SSO into a spike plus an implementation ticket.
+Lead (Owen): Let's commit to what's realistic and not overpromise.
+PM (Elena): I'll document the decisions and owners and share the notes.",We need to size the SSO reliability work before we commit. We can commit to a beta if we cut scope on the export piece. We need to weigh this against what we promised the field. Let's carve SSO into a spike plus an implementation ticket. Let's commit to what's realistic and not overpromise. I'll document the decisions and owners and share the notes.,Authentication & Access,Estimating implementation and scoping SSO reliability tasks.
+INT-012,internal,2026-05-07,Incident & Postmortem,incident,Fatima (lead); Yuki (eng); Priya (PM),neg,"--------------------
+Lead (Fatima): The billing service went down during peak and customers noticed.
+Eng (Yuki): We need better alerting; we found out from customers first.
+PM (Priya): We need to weigh this against what we promised the field.
+Eng (Yuki): Root cause was a bad deploy that overwhelmed the webhook queue.
+Lead (Fatima): We're accumulating risk here. Leadership needs to hear it.
+PM (Priya): I'll document the decisions and owners and share the notes.",The billing service went down during peak and customers noticed. We need better alerting; we found out from customers first. We need to weigh this against what we promised the field. Root cause was a bad deploy that overwhelmed the webhook queue. We're accumulating risk here. Leadership needs to hear it. I'll document the decisions and owners and share the notes.,Reliability & Performance,Analyzing system downtime caused by webhook deploy queues.
+INT-013,internal,2026-06-24,Roadmap & Planning,roadmap,Jonas (lead); Liam (eng); Fatima (PM),pos,"--------------------
+Lead (Jonas): We need to balance new features against the reliability backlog.
+Eng (Liam): Let's tie each roadmap item to a customer or revenue signal.
+PM (Fatima): Let's make sure we capture this in the roadmap tradeoffs.
+Eng (Liam): We can ship two flagship features if we hold the line on scope.
+Lead (Jonas): Great alignment — let's execute.
+PM (Fatima): I'll document the decisions and owners and share the notes.",We need to balance new features against the reliability backlog. Let's tie each roadmap item to a customer or revenue signal. Let's make sure we capture this in the roadmap tradeoffs. We can ship two flagship features if we hold the line on scope. Great alignment — let's execute. I'll document the decisions and owners and share the notes.,Product Feedback & Roadmap,Making roadmap tradeoffs between features and engineering bugs.
+INT-014,internal,2026-05-02,Sprint Planning,sprint,Aisha (lead); Ben (eng); Aisha (PM),mixed,"--------------------
+Lead (Aisha): We need to size the SSO reliability work before we commit.
+Eng (Ben): Bulk edit is bigger than it looks; the data model needs work.
+PM (Aisha): From the product side, customers are definitely feeling this.
+Eng (Ben): We can commit to a beta if we cut scope on the export piece.
+Lead (Aisha): Let's commit to what's realistic and not overpromise.
+PM (Aisha): I'll document the decisions and owners and share the notes.","We need to size the SSO reliability work before we commit. Bulk edit is bigger than it looks; the data model needs work. From the product side, customers are definitely feeling this. We can commit to a beta if we cut scope on the export piece. Let's commit to what's realistic and not overpromise. I'll document the decisions and owners and share the notes.",Authentication & Access,Analyzing technical sizing scope for SSO authentication.
+INT-015,internal,2026-05-23,Team & Hiring,hiring,Raj (lead); Hannah (eng); Hannah (PM),mixed,"--------------------
+Lead (Raj): Let's plan the ramp for the two new engineers starting soon.
+Eng (Hannah): I'll draft an onboarding plan so the new folks are productive fast.
+PM (Hannah): Let's make sure we capture this in the roadmap tradeoffs.
+Eng (Hannah): We should protect focus time so the team isn't context-switching.
+Lead (Raj): Good discussion. Let's lock the scope and revisit Friday.
+PM (Hannah): I'll document the decisions and owners and share the notes.",Let's plan the ramp for the two new engineers starting soon. I'll draft an onboarding plan so the new folks are productive fast. Let's make sure we capture this in the roadmap tradeoffs. We should protect focus time so the team isn't context-switching. Good discussion. Let's lock the scope and revisit Friday. I'll document the decisions and owners and share the notes.,Adoption & Enablement,Drafting an onboarding plan for ramp-up of new developers.
+INT-016,internal,2026-02-24,Sprint Planning,sprint,Ben (lead); Tomás (eng); Liam (PM),mixed,"--------------------
+Lead (Ben): Product wants the analytics module in the next two sprints.
+Eng (Tomás): Let's carve SSO into a spike plus an implementation ticket.
+PM (Liam): We need to weigh this against what we promised the field.
+Eng (Tomás): Bulk edit is bigger than it looks; the data model needs work.
+Lead (Ben): Reasonable trade-offs. I'll write up the decision.
+PM (Liam): I'll document the decisions and owners and share the notes.",Product wants the analytics module in the next two sprints. Let's carve SSO into a spike plus an implementation ticket. We need to weigh this against what we promised the field. Bulk edit is bigger than it looks; the data model needs work. Reasonable trade-offs. I'll write up the decision. I'll document the decisions and owners and share the notes.,Product Feedback & Roadmap,Scoping product feature deliverables for analytics module.
+INT-017,internal,2026-01-17,Team & Hiring,hiring,Marcus (lead); Mei (eng); Ben (PM),mixed,"--------------------
+Lead (Marcus): We're stretched thin on the platform team and need to hire.
+Eng (Mei): Let's open a backfill req and rebalance on-call in the meantime.
+PM (Ben): From the product side, customers are definitely feeling this.
+Eng (Mei): I'll draft an onboarding plan so the new folks are productive fast.
+Lead (Marcus): Let's commit to what's realistic and not overpromise.
+PM (Ben): I'll document the decisions and owners and share the notes.","We're stretched thin on the platform team and need to hire. Let's open a backfill req and rebalance on-call in the meantime. From the product side, customers are definitely feeling this. I'll draft an onboarding plan so the new folks are productive fast. Let's commit to what's realistic and not overpromise. I'll document the decisions and owners and share the notes.",Adoption & Enablement,"Resource planning, recruiting, and onboarding for team growth."
+INT-018,internal,2026-03-19,Cross-Team Escalation,escalation,Fatima (lead); Fatima (eng); Yuki (PM),neg,"--------------------
+Lead (Fatima): The account team says a major customer is at churn risk over outages.
+Eng (Fatima): We're seeing the billing duplicate-charge bug in the logs too.
+PM (Yuki): I'll take the customer-comms angle on this.
+Eng (Fatima): Compliance work is scoped but competing with the analytics roadmap.
+Lead (Fatima): Okay, this can't happen again — let's make the action items P0.
+PM (Yuki): I'll document the decisions and owners and share the notes.","The account team says a major customer is at churn risk over outages. We're seeing the billing duplicate-charge bug in the logs too. I'll take the customer-comms angle on this. Compliance work is scoped but competing with the analytics roadmap. Okay, this can't happen again — let's make the action items P0. I'll document the decisions and owners and share the notes.",Reliability & Performance,Prioritizing outage bugs causing high churn vulnerability.
+INT-019,internal,2026-01-22,Roadmap & Planning,roadmap,Naomi (lead); Fatima (eng); Elena (PM),pos,"--------------------
+Lead (Naomi): Let's align on the H2 roadmap and what we're committing to.
+Eng (Fatima): Let's tie each roadmap item to a customer or revenue signal.
+PM (Elena): We need to weigh this against what we promised the field.
+Eng (Fatima): I'd argue reliability has to come first given recent incidents.
+Lead (Naomi): This feels like the right call. Nice work everyone.
+PM (Elena): I'll document the decisions and owners and share the notes.",Let's align on the H2 roadmap and what we're committing to. Let's tie each roadmap item to a customer or revenue signal. We need to weigh this against what we promised the field. I'd argue reliability has to come first given recent incidents. This feels like the right call. Nice work everyone. I'll document the decisions and owners and share the notes.,Product Feedback & Roadmap,Aligning H2 roadmap commitments around critical reliability.
+INT-020,internal,2026-03-24,Roadmap & Planning,roadmap,Elena (lead); Tomás (eng); Devin (PM),pos,"--------------------
+Lead (Elena): Leadership wants a clear story on the analytics investment.
+Eng (Tomás): We can ship two flagship features if we hold the line on scope.
+PM (Devin): I'll take the customer-comms angle on this.
+Eng (Tomás): I'd argue reliability has to come first given recent incidents.
+Lead (Elena): Great alignment — let's execute.
+PM (Devin): I'll document the decisions and owners and share the notes.",Leadership wants a clear story on the analytics investment. We can ship two flagship features if we hold the line on scope. I'll take the customer-comms angle on this. I'd argue reliability has to come first given recent incidents. Great alignment — let's execute. I'll document the decisions and owners and share the notes.,Product Feedback & Roadmap,Planning analytics feature investments versus system stability.
+INT-021,internal,2026-04-29,Cross-Team Escalation,escalation,Ben (lead); Jonas (eng); Carlos (PM),neg,"--------------------
+Lead (Ben): Sales is blocked on a deal that needs the compliance feature.
+Eng (Jonas): Compliance work is scoped but competing with the analytics roadmap.
+PM (Carlos): From the product side, customers are definitely feeling this.
+Eng (Jonas): We're seeing the billing duplicate-charge bug in the logs too.
+Lead (Ben): Okay, this can't happen again — let's make the action items P0.
+PM (Carlos): I'll document the decisions and owners and share the notes.","Sales is blocked on a deal that needs the compliance feature. Compliance work is scoped but competing with the analytics roadmap. From the product side, customers are definitely feeling this. We're seeing the billing duplicate-charge bug in the logs too. Okay, this can't happen again — let's make the action items P0. I'll document the decisions and owners and share the notes.",Reliability & Performance,Resolving blocking compliance features and duplicate billing charges.
+INT-022,internal,2026-06-15,Sprint Planning,sprint,Hannah (lead); Aisha (eng); Elena (PM),mixed,"--------------------
+Lead (Hannah): Product wants the analytics module in the next two sprints.
+Eng (Aisha): Bulk edit is bigger than it looks; the data model needs work.
+PM (Elena): From the product side, customers are definitely feeling this.
+Eng (Aisha): We can commit to a beta if we cut scope on the export piece.
+Lead (Hannah): Good discussion. Let's lock the scope and revisit Friday.
+PM (Elena): I'll document the decisions and owners and share the notes.","Product wants the analytics module in the next two sprints. Bulk edit is bigger than it looks; the data model needs work. From the product side, customers are definitely feeling this. We can commit to a beta if we cut scope on the export piece. Good discussion. Let's lock the scope and revisit Friday. I'll document the decisions and owners and share the notes.",Product Feedback & Roadmap,Scoping analytics feature module across future developer sprints.
+INT-023,internal,2026-01-06,Architecture & Tech Debt,architecture,Carlos (lead); Yuki (eng); Zara (PM),mixed,"--------------------
+Lead (Carlos): We should decide on the migration off the legacy reporting service.
+Eng (Yuki): A queue-based redesign would fix the reliability issues long term.
+PM (Zara): Let's make sure we capture this in the roadmap tradeoffs.
+Eng (Yuki): Let's centralize rate limiting behind a single gateway.
+Lead (Carlos): Let's commit to what's realistic and not overpromise.
+PM (Zara): I'll document the decisions and owners and share the notes.",We should decide on the migration off the legacy reporting service. A queue-based redesign would fix the reliability issues long term. Let's make sure we capture this in the roadmap tradeoffs. Let's centralize rate limiting behind a single gateway. Let's commit to what's realistic and not overpromise. I'll document the decisions and owners and share the notes.,Reliability & Performance,Migrating legacy services for better queue performance.
+INT-024,internal,2026-03-19,Cross-Team Escalation,escalation,Yuki (lead); Elena (eng); Tomás (PM),neg,"--------------------
+Lead (Yuki): The account team says a major customer is at churn risk over outages.
+Eng (Elena): Compliance work is scoped but competing with the analytics roadmap.
+PM (Tomás): From the product side, customers are definitely feeling this.
+Eng (Elena): We're seeing the billing duplicate-charge bug in the logs too.
+Lead (Yuki): Let's be honest that morale takes a hit every time this recurs.
+PM (Tomás): I'll document the decisions and owners and share the notes.","The account team says a major customer is at churn risk over outages. Compliance work is scoped but competing with the analytics roadmap. From the product side, customers are definitely feeling this. We're seeing the billing duplicate-charge bug in the logs too. Let's be honest that morale takes a hit every time this recurs. I'll document the decisions and owners and share the notes.",Reliability & Performance,Assessing system outages and duplicate charges causing churn risk.
+INT-025,internal,2026-03-04,Incident & Postmortem,incident,Sofia (lead); Aisha (eng); Sofia (PM),neg,"--------------------
+Lead (Sofia): The billing service went down during peak and customers noticed.
+Eng (Aisha): Root cause was a bad deploy that overwhelmed the webhook queue.
+PM (Sofia): Let's make sure we capture this in the roadmap tradeoffs.
+Eng (Aisha): Action item: add a circuit breaker and backfill the failed jobs.
+Lead (Sofia): We're accumulating risk here. Leadership needs to hear it.
+PM (Sofia): I'll document the decisions and owners and share the notes.",The billing service went down during peak and customers noticed. Root cause was a bad deploy that overwhelmed the webhook queue. Let's make sure we capture this in the roadmap tradeoffs. Action item: add a circuit breaker and backfill the failed jobs. We're accumulating risk here. Leadership needs to hear it. I'll document the decisions and owners and share the notes.,Reliability & Performance,Investigating a production billing queue system outage.
+INT-026,internal,2026-02-06,Cross-Team Escalation,escalation,Yuki (lead); Ben (eng); Naomi (PM),neg,"--------------------
+Lead (Yuki): The account team says a major customer is at churn risk over outages.
+Eng (Ben): Compliance work is scoped but competing with the analytics roadmap.
+PM (Naomi): From the product side, customers are definitely feeling this.
+Eng (Ben): Reliability has to be our top priority if renewals are on the line.
+Lead (Yuki): Let's be honest that morale takes a hit every time this recurs.
+PM (Naomi): I'll document the decisions and owners and share the notes.","The account team says a major customer is at churn risk over outages. Compliance work is scoped but competing with the analytics roadmap. From the product side, customers are definitely feeling this. Reliability has to be our top priority if renewals are on the line. Let's be honest that morale takes a hit every time this recurs. I'll document the decisions and owners and share the notes.",Reliability & Performance,Prioritizing reliability features due to critical client outages.
+INT-027,internal,2026-01-16,Cross-Team Escalation,escalation,Carlos (lead); Grace (eng); Zara (PM),neg,"--------------------
+Lead (Carlos): Support is escalating a spike in billing complaints to us.
+Eng (Grace): We're seeing the billing duplicate-charge bug in the logs too.
+PM (Zara): From the product side, customers are definitely feeling this.
+Eng (Grace): Compliance work is scoped but competing with the analytics roadmap.
+Lead (Carlos): Let's be honest that morale takes a hit every time this recurs.
+PM (Zara): I'll document the decisions and owners and share the notes.","Support is escalating a spike in billing complaints to us. We're seeing the billing duplicate-charge bug in the logs too. From the product side, customers are definitely feeling this. Compliance work is scoped but competing with the analytics roadmap. Let's be honest that morale takes a hit every time this recurs. I'll document the decisions and owners and share the notes.",Billing & Pricing,Reviewing escalated customer reports of duplicate billing charges.
+INT-028,internal,2026-03-15,Architecture & Tech Debt,architecture,Jonas (lead); Marcus (eng); Raj (PM),mixed,"--------------------
+Lead (Jonas): The rate-limiting logic is scattered and causing inconsistent 429s.
+Eng (Marcus): We should pay down this debt before it becomes an incident.
+PM (Raj): We need to weigh this against what we promised the field.
+Eng (Marcus): A queue-based redesign would fix the reliability issues long term.
+Lead (Jonas): Let's commit to what's realistic and not overpromise.
+PM (Raj): I'll document the decisions and owners and share the notes.",The rate-limiting logic is scattered and causing inconsistent 429s. We should pay down this debt before it becomes an incident. We need to weigh this against what we promised the field. A queue-based redesign would fix the reliability issues long term. Let's commit to what's realistic and not overpromise. I'll document the decisions and owners and share the notes.,Reliability & Performance,Resolving rate-limiting architecture flaws to stop outages.
+INT-029,internal,2026-04-27,Cross-Team Escalation,escalation,Fatima (lead); Elena (eng); Fatima (PM),neg,"--------------------
+Lead (Fatima): The account team says a major customer is at churn risk over outages.
+Eng (Elena): Reliability has to be our top priority if renewals are on the line.
+PM (Fatima): From the product side, customers are definitely feeling this.
+Eng (Elena): Compliance work is scoped but competing with the analytics roadmap.
+Lead (Fatima): Okay, this can't happen again — let's make the action items P0.
+PM (Fatima): I'll document the decisions and owners and share the notes.","The account team says a major customer is at churn risk over outages. Reliability has to be our top priority if renewals are on the line. From the product side, customers are definitely feeling this. Compliance work is scoped but competing with the analytics roadmap. Okay, this can't happen again — let's make the action items P0. I'll document the decisions and owners and share the notes.",Reliability & Performance,Addressing major account churn risk driven by stability issues.
+INT-030,internal,2026-03-31,Team & Hiring,hiring,Carlos (lead); Fatima (eng); Ben (PM),mixed,"--------------------
+Lead (Carlos): On-call is burning people out; we need more coverage.
+Eng (Fatima): I'll draft an onboarding plan so the new folks are productive fast.
+PM (Ben): From the product side, customers are definitely feeling this.
+Eng (Fatima): Let's open a backfill req and rebalance on-call in the meantime.
+Lead (Carlos): Reasonable trade-offs. I'll write up the decision.
+PM (Ben): I'll document the decisions and owners and share the notes.","On-call is burning people out; we need more coverage. I'll draft an onboarding plan so the new folks are productive fast. From the product side, customers are definitely feeling this. Let's open a backfill req and rebalance on-call in the meantime. Reasonable trade-offs. I'll write up the decision. I'll document the decisions and owners and share the notes.",Adoption & Enablement,Hiring and onboarding backfills to manage team burnout.
+INT-031,internal,2026-03-11,Roadmap & Planning,roadmap,Grace (lead); Devin (eng); Naomi (PM),pos,"--------------------
+Lead (Grace): We need to balance new features against the reliability backlog.
+Eng (Devin): I'd argue reliability has to come first given recent incidents.
+PM (Naomi): From the product side, customers are definitely feeling this.
+Eng (Devin): We can ship two flagship features if we hold the line on scope.
+Lead (Grace): Solid plan. I think we're in good shape heading into next quarter.
+PM (Naomi): I'll document the decisions and owners and share the notes.","We need to balance new features against the reliability backlog. I'd argue reliability has to come first given recent incidents. From the product side, customers are definitely feeling this. We can ship two flagship features if we hold the line on scope. Solid plan. I think we're in good shape heading into next quarter. I'll document the decisions and owners and share the notes.",Reliability & Performance,Prioritizing overall platform stability over planned features.
+INT-032,internal,2026-05-18,Team & Hiring,hiring,Liam (lead); Zara (eng); Fatima (PM),mixed,"--------------------
+Lead (Liam): We're stretched thin on the platform team and need to hire.
+Eng (Zara): I'll draft an onboarding plan so the new folks are productive fast.
+PM (Fatima): Let's make sure we capture this in the roadmap tradeoffs.
+Eng (Zara): Let's open a backfill req and rebalance on-call in the meantime.
+Lead (Liam): Let's commit to what's realistic and not overpromise.
+PM (Fatima): I'll document the decisions and owners and share the notes.",We're stretched thin on the platform team and need to hire. I'll draft an onboarding plan so the new folks are productive fast. Let's make sure we capture this in the roadmap tradeoffs. Let's open a backfill req and rebalance on-call in the meantime. Let's commit to what's realistic and not overpromise. I'll document the decisions and owners and share the notes.,Adoption & Enablement,Addressing team bandwidth by hiring and onboarding fast.
+INT-033,internal,2026-02-08,Incident & Postmortem,incident,Ben (lead); Yuki (eng); Fatima (PM),neg,"--------------------
+Lead (Ben): We had a partial outage in the EU region overnight.
+Eng (Yuki): Root cause was a bad deploy that overwhelmed the webhook queue.
+PM (Fatima): We need to weigh this against what we promised the field.
+Eng (Yuki): Action item: add a circuit breaker and backfill the failed jobs.
+Lead (Ben): We're accumulating risk here. Leadership needs to hear it.
+PM (Fatima): I'll document the decisions and owners and share the notes.",We had a partial outage in the EU region overnight. Root cause was a bad deploy that overwhelmed the webhook queue. We need to weigh this against what we promised the field. Action item: add a circuit breaker and backfill the failed jobs. We're accumulating risk here. Leadership needs to hear it. I'll document the decisions and owners and share the notes.,Reliability & Performance,Reviewing system failure from overnight deployment issues.
+SUP-001,support,2026-06-18,Data & Reporting,data,Devin (agent); Priya (customer),mixed,"--------------------
+Agent (Devin): Thanks for calling support, this is Devin. How can I help today?
+Customer (Priya): Timezone handling in the reports is off by a day for us.
+Agent (Devin): I'll open a data investigation and confirm nothing was dropped.
+Customer (Priya): Sure, one moment.
+Agent (Devin): Let me reconcile the export against the live view.
+Customer (Priya): Thanks, that clears up most of it — I'll try what you suggested.
+Agent (Devin): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Priya): No, that's all for now.","Timezone handling in the reports is off by a day for us. Sure, one moment. Thanks, that clears up most of it — I'll try what you suggested. No, that's all for now.",Data & Reporting,Investigating timezone discrepancies in data reporting exports.
+SUP-002,support,2026-06-06,Billing & Invoicing,billing,Carlos (agent); Marcus (customer),neg,"--------------------
+Agent (Carlos): Thanks for calling support, this is Carlos. How can I help today?
+Customer (Marcus): I was charged twice on my last invoice and no one can tell me why.
+Agent (Carlos): I can see the duplicate charge here — I'll issue a refund today.
+Customer (Marcus): Sure, one moment.
+Agent (Carlos): Let me pull up your billing history and take a look.
+Customer (Marcus): Okay, I'll trust that it's handled, but please follow up in writing.
+Agent (Carlos): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Marcus): No, that's all for now.","I was charged twice on my last invoice and no one can tell me why. Sure, one moment. Okay, I'll trust that it's handled, but please follow up in writing. No, that's all for now.",Billing & Pricing,Handling customer issue regarding an invoice double charge.
+SUP-003,support,2026-06-21,Login & Authentication,auth,Mei (agent); Carlos (customer),mixed,"--------------------
+Agent (Mei): Thanks for calling support, this is Mei. How can I help today?
+Customer (Carlos): MFA codes never arrive and now I'm locked out of the admin console.
+Agent (Mei): I've cleared the lockout on your account, try again now.
+Customer (Carlos): This is the third time we've raised this, for the record.
+Agent (Mei): Are you seeing an error code, or does it hang on the redirect?
+Customer (Carlos): Thanks, that clears up most of it — I'll try what you suggested.
+Agent (Mei): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Carlos): That's everything, thanks.","MFA codes never arrive and now I'm locked out of the admin console. This is the third time we've raised this, for the record. Thanks, that clears up most of it — I'll try what you suggested. That's everything, thanks.",Authentication & Access,Unlocking account due to failed multi-factor authentication.
+SUP-004,support,2026-03-18,Feature Requests,feature_req,Sofia (agent); Hannah (customer),mixed,"--------------------
+Agent (Sofia): Thanks for calling support, this is Sofia. How can I help today?
+Customer (Hannah): We'd love granular audit logs for our compliance review.
+Agent (Sofia): Great feedback — let me log this and tag it to your account.
+Customer (Hannah): Sure, one moment.
+Agent (Sofia): I'll submit this as a localization request on your behalf.
+Customer (Hannah): Alright, let's see if that holds. Appreciate you digging in.
+Agent (Sofia): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Hannah): That's everything, thanks.","We'd love granular audit logs for our compliance review. Sure, one moment. Alright, let's see if that holds. Appreciate you digging in. That's everything, thanks.",Product Feedback & Roadmap,Requesting granular audit logs feature for compliance.
+SUP-005,support,2026-04-04,Feature Requests,feature_req,Zara (agent); Aisha (customer),mixed,"--------------------
+Agent (Zara): Thanks for calling support, this is Zara. How can I help today?
+Customer (Aisha): We really need bulk editing — it's a dealbreaker for my team.
+Agent (Zara): I'll submit this as a localization request on your behalf.
+Customer (Aisha): This is the third time we've raised this, for the record.
+Agent (Zara): Audit logs are actually on the near-term roadmap; I'll flag your interest.
+Customer (Aisha): Thanks, that clears up most of it — I'll try what you suggested.
+Agent (Zara): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Aisha): No, that's all for now.","We really need bulk editing — it's a dealbreaker for my team. This is the third time we've raised this, for the record. Thanks, that clears up most of it — I'll try what you suggested. No, that's all for now.",Product Feedback & Roadmap,Handling feature requests for bulk editing options.
+SUP-006,support,2026-05-27,Feature Requests,feature_req,Ben (agent); Zara (customer),mixed,"--------------------
+Agent (Ben): Thanks for calling support, this is Ben. How can I help today?
+Customer (Zara): We'd love granular audit logs for our compliance review.
+Agent (Ben): I can't promise a date, but I'll pass this to product with your use case.
+Customer (Zara): Sure, one moment.
+Agent (Ben): Audit logs are actually on the near-term roadmap; I'll flag your interest.
+Customer (Zara): Thanks, that clears up most of it — I'll try what you suggested.
+Agent (Ben): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Zara): No, that's all for now.","We'd love granular audit logs for our compliance review. Sure, one moment. Thanks, that clears up most of it — I'll try what you suggested. No, that's all for now.",Product Feedback & Roadmap,Logging user demand for future audit logs features.
+SUP-007,support,2026-03-21,Feature Requests,feature_req,Elena (agent); Tomás (customer),mixed,"--------------------
+Agent (Elena): Thanks for calling support, this is Elena. How can I help today?
+Customer (Tomás): We really need bulk editing — it's a dealbreaker for my team.
+Agent (Elena): I'll submit this as a localization request on your behalf.
+Customer (Tomás): I've already tried the usual restart and it didn't help.
+Agent (Elena): I can't promise a date, but I'll pass this to product with your use case.
+Customer (Tomás): Alright, let's see if that holds. Appreciate you digging in.
+Agent (Elena): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Tomás): No, that's all for now.","We really need bulk editing — it's a dealbreaker for my team. I've already tried the usual restart and it didn't help. Alright, let's see if that holds. Appreciate you digging in. No, that's all for now.",Product Feedback & Roadmap,Logging feature requests for bulk editing capabilities.
+SUP-008,support,2026-04-10,Data & Reporting,data,Liam (agent); Hannah (customer),mixed,"--------------------
+Agent (Liam): Thanks for calling support, this is Liam. How can I help today?
+Customer (Hannah): Timezone handling in the reports is off by a day for us.
+Agent (Liam): Let me reconcile the export against the live view.
+Customer (Hannah): Okay, here's what I'm seeing on my end.
+Agent (Liam): That's a known timezone setting — I can correct it for your workspace.
+Customer (Hannah): That helps. I'll reach back out if it acts up again.
+Agent (Liam): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Hannah): No, that's all for now.","Timezone handling in the reports is off by a day for us. Okay, here's what I'm seeing on my end. That helps. I'll reach back out if it acts up again. No, that's all for now.",Data & Reporting,Correcting incorrect workspace timezone metrics settings.
+SUP-009,support,2026-02-16,API Errors & Integration,api_error,Yuki (agent); Naomi (customer),neg,"--------------------
+Agent (Yuki): Thanks for calling support, this is Yuki. How can I help today?
+Customer (Naomi): The API started returning 429s and it's killing our sync job.
+Agent (Yuki): That field was deprecated in v3; here's the migration path.
+Customer (Naomi): Sure, one moment.
+Agent (Yuki): Can you share a request ID so I can trace it in our logs?
+Customer (Naomi): Honestly this has cost us real time and I hope it doesn't happen again.
+Agent (Yuki): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Naomi): That's everything, thanks.","The API started returning 429s and it's killing our sync job. Sure, one moment. Honestly this has cost us real time and I hope it doesn't happen again. That's everything, thanks.",API & Integrations,Troubleshooting 429 rate limits blocking synchronization APIs.
+SUP-010,support,2026-04-18,Login & Authentication,auth,Aisha (agent); Elena (customer),mixed,"--------------------
+Agent (Aisha): Thanks for calling support, this is Aisha. How can I help today?
+Customer (Elena): I keep getting 'invalid credentials' even after a reset.
+Agent (Aisha): This looks like a SAML metadata mismatch — let's re-upload the cert.
+Customer (Elena): This is the third time we've raised this, for the record.
+Agent (Aisha): I've cleared the lockout on your account, try again now.
+Customer (Elena): Alright, let's see if that holds. Appreciate you digging in.
+Agent (Aisha): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Elena): That's everything, thanks.","I keep getting 'invalid credentials' even after a reset. This is the third time we've raised this, for the record. Alright, let's see if that holds. Appreciate you digging in. That's everything, thanks.",Authentication & Access,Fixing metadata mismatch during SAML sign-in failures.
+SUP-011,support,2026-02-11,Login & Authentication,auth,Aisha (agent); Sofia (customer),mixed,"--------------------
+Agent (Aisha): Thanks for calling support, this is Aisha. How can I help today?
+Customer (Sofia): I keep getting 'invalid credentials' even after a reset.
+Agent (Aisha): I'll enable a temporary backup code so you can get back in.
+Customer (Sofia): I've already tried the usual restart and it didn't help.
+Agent (Aisha): I've cleared the lockout on your account, try again now.
+Customer (Sofia): Alright, let's see if that holds. Appreciate you digging in.
+Agent (Aisha): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Sofia): No, that's all for now.","I keep getting 'invalid credentials' even after a reset. I've already tried the usual restart and it didn't help. Alright, let's see if that holds. Appreciate you digging in. No, that's all for now.",Authentication & Access,Bypassing login lockout with temporary credential resets.
+SUP-012,support,2026-02-10,Billing & Invoicing,billing,Owen (agent); Fatima (customer),neg,"--------------------
+Agent (Owen): Thanks for calling support, this is Owen. How can I help today?
+Customer (Fatima): I was charged twice on my last invoice and no one can tell me why.
+Agent (Owen): Let me pull up your billing history and take a look.
+Customer (Fatima): Okay, here's what I'm seeing on my end.
+Agent (Owen): I'll open a billing correction and loop in our finance ops team.
+Customer (Fatima): Okay, I'll trust that it's handled, but please follow up in writing.
+Agent (Owen): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Fatima): That's everything, thanks.","I was charged twice on my last invoice and no one can tell me why. Okay, here's what I'm seeing on my end. Okay, I'll trust that it's handled, but please follow up in writing. That's everything, thanks.",Billing & Pricing,Processing credit adjustment for invoice overcharges.
+SUP-013,support,2026-06-07,Performance & Reliability,performance,Elena (agent); Naomi (customer),neg,"--------------------
+Agent (Elena): Thanks for calling support, this is Elena. How can I help today?
+Customer (Naomi): We saw a full outage yesterday during our busiest hour.
+Agent (Elena): I'll escalate this to our reliability team with your traces.
+Customer (Naomi): Sure, one moment.
+Agent (Elena): We're rolling out a fix; I'll keep you posted on the timeline.
+Customer (Naomi): Honestly this has cost us real time and I hope it doesn't happen again.
+Agent (Elena): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Naomi): That's everything, thanks.","We saw a full outage yesterday during our busiest hour. Sure, one moment. Honestly this has cost us real time and I hope it doesn't happen again. That's everything, thanks.",Reliability & Performance,Reporting full system outage during peak hour.
+SUP-014,support,2026-06-19,API Errors & Integration,api_error,Grace (agent); Devin (customer),neg,"--------------------
+Agent (Grace): Thanks for calling support, this is Grace. How can I help today?
+Customer (Devin): We're getting intermittent timeouts calling the reporting endpoint.
+Agent (Grace): You're hitting the rate limit — I'll bump your tier's quota.
+Customer (Devin): I've already tried the usual restart and it didn't help.
+Agent (Grace): I'm seeing elevated latency on that endpoint on our side too.
+Customer (Devin): Honestly this has cost us real time and I hope it doesn't happen again.
+Agent (Grace): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Devin): No, that's all for now.","We're getting intermittent timeouts calling the reporting endpoint. I've already tried the usual restart and it didn't help. Honestly this has cost us real time and I hope it doesn't happen again. No, that's all for now.",API & Integrations,Diagnosing API timeouts and expanding execution quotas.
+SUP-015,support,2026-05-15,Feature Requests,feature_req,Devin (agent); Ben (customer),mixed,"--------------------
+Agent (Devin): Thanks for calling support, this is Devin. How can I help today?
+Customer (Ben): Any chance the roadmap includes Salesforce two-way sync soon?
+Agent (Devin): I can't promise a date, but I'll pass this to product with your use case.
+Customer (Ben): Sure, one moment.
+Agent (Devin): I'll submit this as a localization request on your behalf.
+Customer (Ben): Thanks, that clears up most of it — I'll try what you suggested.
+Agent (Devin): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Ben): That's everything, thanks.","Any chance the roadmap includes Salesforce two-way sync soon? Sure, one moment. Thanks, that clears up most of it — I'll try what you suggested. That's everything, thanks.",API & Integrations,Requesting Salesforce bi-directional sync integration capabilities.
+SUP-016,support,2026-05-11,API Errors & Integration,api_error,Priya (agent); Devin (customer),neg,"--------------------
+Agent (Priya): Thanks for calling support, this is Priya. How can I help today?
+Customer (Devin): Your latest release broke the field mapping in our integration.
+Agent (Priya): You're hitting the rate limit — I'll bump your tier's quota.
+Customer (Devin): Sure, one moment.
+Agent (Priya): Can you share a request ID so I can trace it in our logs?
+Customer (Devin): Honestly this has cost us real time and I hope it doesn't happen again.
+Agent (Priya): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Devin): No, that's all for now.","Your latest release broke the field mapping in our integration. Sure, one moment. Honestly this has cost us real time and I hope it doesn't happen again. No, that's all for now.",API & Integrations,Troubleshooting broken integration mapping following recent release.
+SUP-017,support,2026-05-10,Feature Requests,feature_req,Elena (agent); Mei (customer),mixed,"--------------------
+Agent (Elena): Thanks for calling support, this is Elena. How can I help today?
+Customer (Mei): Any chance the roadmap includes Salesforce two-way sync soon?
+Agent (Elena): I can't promise a date, but I'll pass this to product with your use case.
+Customer (Mei): Okay, here's what I'm seeing on my end.
+Agent (Elena): Audit logs are actually on the near-term roadmap; I'll flag your interest.
+Customer (Mei): Alright, let's see if that holds. Appreciate you digging in.
+Agent (Elena): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Mei): That's everything, thanks.","Any chance the roadmap includes Salesforce two-way sync soon? Okay, here's what I'm seeing on my end. Alright, let's see if that holds. Appreciate you digging in. That's everything, thanks.",API & Integrations,Filing request for Salesforce bidirectional sync tool.
+SUP-018,support,2026-05-21,Login & Authentication,auth,Zara (agent); Carlos (customer),mixed,"--------------------
+Agent (Zara): Thanks for calling support, this is Zara. How can I help today?
+Customer (Carlos): SSO stopped working right after we rotated our certificate.
+Agent (Zara): I've cleared the lockout on your account, try again now.
+Customer (Carlos): I've already tried the usual restart and it didn't help.
+Agent (Zara): This looks like a SAML metadata mismatch — let's re-upload the cert.
+Customer (Carlos): That helps. I'll reach back out if it acts up again.
+Agent (Zara): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Carlos): That's everything, thanks.","SSO stopped working right after we rotated our certificate. I've already tried the usual restart and it didn't help. That helps. I'll reach back out if it acts up again. That's everything, thanks.",Authentication & Access,Resolving certificate mismatch blocking customer SSO login.
+SUP-019,support,2026-05-18,Login & Authentication,auth,Yuki (agent); Devin (customer),mixed,"--------------------
+Agent (Yuki): Thanks for calling support, this is Yuki. How can I help today?
+Customer (Devin): SSO stopped working right after we rotated our certificate.
+Agent (Yuki): Are you seeing an error code, or does it hang on the redirect?
+Customer (Devin): Okay, here's what I'm seeing on my end.
+Agent (Yuki): This looks like a SAML metadata mismatch — let's re-upload the cert.
+Customer (Devin): Thanks, that clears up most of it — I'll try what you suggested.
+Agent (Yuki): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Devin): No, that's all for now.","SSO stopped working right after we rotated our certificate. Okay, here's what I'm seeing on my end. Thanks, that clears up most of it — I'll try what you suggested. No, that's all for now.",Authentication & Access,Repairing SAML credentials after certificate rotation issues.
+SUP-020,support,2026-01-07,Login & Authentication,auth,Elena (agent); Marcus (customer),mixed,"--------------------
+Agent (Elena): Thanks for calling support, this is Elena. How can I help today?
+Customer (Marcus): Half my team can't log in since this morning — it just spins.
+Agent (Elena): Are you seeing an error code, or does it hang on the redirect?
+Customer (Marcus): Okay, here's what I'm seeing on my end.
+Agent (Elena): This looks like a SAML metadata mismatch — let's re-upload the cert.
+Customer (Marcus): Thanks, that clears up most of it — I'll try what you suggested.
+Agent (Elena): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Marcus): That's everything, thanks.","Half my team can't log in since this morning — it just spins. Okay, here's what I'm seeing on my end. Thanks, that clears up most of it — I'll try what you suggested. That's everything, thanks.",Authentication & Access,Resolving widespread team login issues with metadata.
+SUP-021,support,2026-06-26,How-To & Configuration,howto,Fatima (agent); Hannah (customer),pos,"--------------------
+Agent (Fatima): Thanks for calling support, this is Fatima. How can I help today?
+Customer (Hannah): How do I bulk-import our contacts from a CSV?
+Agent (Fatima): I'll send our warehouse connector guide and stay on while you set it up.
+Customer (Hannah): This is the third time we've raised this, for the record.
+Agent (Fatima): Happy to help — let's go to Settings > Access together.
+Customer (Hannah): Perfect, you made that painless — really appreciate it.
+Agent (Fatima): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Hannah): No, that's all for now.","How do I bulk-import our contacts from a CSV? This is the third time we've raised this, for the record. Perfect, you made that painless — really appreciate it. No, that's all for now.",Adoption & Enablement,Guiding customer through bulk contact CSV uploading.
+SUP-022,support,2026-01-30,API Errors & Integration,api_error,Devin (agent); Carlos (customer),neg,"--------------------
+Agent (Devin): Thanks for calling support, this is Devin. How can I help today?
+Customer (Carlos): We're getting intermittent timeouts calling the reporting endpoint.
+Agent (Devin): I'm seeing elevated latency on that endpoint on our side too.
+Customer (Carlos): Sure, one moment.
+Agent (Devin): You're hitting the rate limit — I'll bump your tier's quota.
+Customer (Carlos): Okay, I'll trust that it's handled, but please follow up in writing.
+Agent (Devin): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Carlos): No, that's all for now.","We're getting intermittent timeouts calling the reporting endpoint. Sure, one moment. Okay, I'll trust that it's handled, but please follow up in writing. No, that's all for now.",API & Integrations,Adjusting limits to fix API endpoint timeouts.
+SUP-023,support,2026-01-21,Feature Requests,feature_req,Naomi (agent); Grace (customer),mixed,"--------------------
+Agent (Naomi): Thanks for calling support, this is Naomi. How can I help today?
+Customer (Grace): We really need bulk editing — it's a dealbreaker for my team.
+Agent (Naomi): I can't promise a date, but I'll pass this to product with your use case.
+Customer (Grace): This is the third time we've raised this, for the record.
+Agent (Naomi): Great feedback — let me log this and tag it to your account.
+Customer (Grace): Thanks, that clears up most of it — I'll try what you suggested.
+Agent (Naomi): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Grace): No, that's all for now.","We really need bulk editing — it's a dealbreaker for my team. This is the third time we've raised this, for the record. Thanks, that clears up most of it — I'll try what you suggested. No, that's all for now.",Product Feedback & Roadmap,Registering customer feedback demanding bulk editing options.
+SUP-024,support,2026-04-24,Performance & Reliability,performance,Raj (agent); Aisha (customer),neg,"--------------------
+Agent (Raj): Thanks for calling support, this is Raj. How can I help today?
+Customer (Aisha): Reports that used to run in seconds now time out completely.
+Agent (Raj): Let me check the status of your region's cluster.
+Customer (Aisha): Sure, one moment.
+Agent (Raj): There was a degradation window that matches what you're describing.
+Customer (Aisha): Okay, I'll trust that it's handled, but please follow up in writing.
+Agent (Raj): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Aisha): No, that's all for now.","Reports that used to run in seconds now time out completely. Sure, one moment. Okay, I'll trust that it's handled, but please follow up in writing. No, that's all for now.",Reliability & Performance,Diagnosing regional cluster latency that slows reports.
+SUP-025,support,2026-06-21,Billing & Invoicing,billing,Mei (agent); Priya (customer),neg,"--------------------
+Agent (Mei): Thanks for calling support, this is Mei. How can I help today?
+Customer (Priya): Our invoice jumped 40% this month with no warning and finance is furious.
+Agent (Mei): I can see the duplicate charge here — I'll issue a refund today.
+Customer (Priya): This is the third time we've raised this, for the record.
+Agent (Mei): I'll open a billing correction and loop in our finance ops team.
+Customer (Priya): I appreciate the fix but this shouldn't have slipped through.
+Agent (Mei): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Priya): No, that's all for now.","Our invoice jumped 40% this month with no warning and finance is furious. This is the third time we've raised this, for the record. I appreciate the fix but this shouldn't have slipped through. No, that's all for now.",Billing & Pricing,Resolving massive pricing jump and billing errors.
+SUP-026,support,2026-04-18,Performance & Reliability,performance,Marcus (agent); Raj (customer),neg,"--------------------
+Agent (Marcus): Thanks for calling support, this is Marcus. How can I help today?
+Customer (Raj): The dashboard takes 30 seconds to load and my execs are complaining.
+Agent (Marcus): We're rolling out a fix; I'll keep you posted on the timeline.
+Customer (Raj): I've already tried the usual restart and it didn't help.
+Agent (Marcus): There was a degradation window that matches what you're describing.
+Customer (Raj): I appreciate the fix but this shouldn't have slipped through.
+Agent (Marcus): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Raj): That's everything, thanks.","The dashboard takes 30 seconds to load and my execs are complaining. I've already tried the usual restart and it didn't help. I appreciate the fix but this shouldn't have slipped through. That's everything, thanks.",Reliability & Performance,Investigating slow dashboard loading times and lag.
+SUP-027,support,2026-05-28,Login & Authentication,auth,Fatima (agent); Sofia (customer),mixed,"--------------------
+Agent (Fatima): Thanks for calling support, this is Fatima. How can I help today?
+Customer (Sofia): I keep getting 'invalid credentials' even after a reset.
+Agent (Fatima): This looks like a SAML metadata mismatch — let's re-upload the cert.
+Customer (Sofia): Sure, one moment.
+Agent (Fatima): Are you seeing an error code, or does it hang on the redirect?
+Customer (Sofia): That helps. I'll reach back out if it acts up again.
+Agent (Fatima): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Sofia): That's everything, thanks.","I keep getting 'invalid credentials' even after a reset. Sure, one moment. That helps. I'll reach back out if it acts up again. That's everything, thanks.",Authentication & Access,Fixing invalid login credentials and SAML issues.
+SUP-028,support,2026-01-20,Performance & Reliability,performance,Marcus (agent); Jonas (customer),neg,"--------------------
+Agent (Marcus): Thanks for calling support, this is Marcus. How can I help today?
+Customer (Jonas): Reports that used to run in seconds now time out completely.
+Agent (Marcus): Let me check the status of your region's cluster.
+Customer (Jonas): Okay, here's what I'm seeing on my end.
+Agent (Marcus): I'll escalate this to our reliability team with your traces.
+Customer (Jonas): Honestly this has cost us real time and I hope it doesn't happen again.
+Agent (Marcus): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Jonas): No, that's all for now.","Reports that used to run in seconds now time out completely. Okay, here's what I'm seeing on my end. Honestly this has cost us real time and I hope it doesn't happen again. No, that's all for now.",Reliability & Performance,Troubleshooting slow queries causing reports to timeout.
+SUP-029,support,2026-06-07,Performance & Reliability,performance,Elena (agent); Tomás (customer),neg,"--------------------
+Agent (Elena): Thanks for calling support, this is Elena. How can I help today?
+Customer (Tomás): The dashboard takes 30 seconds to load and my execs are complaining.
+Agent (Elena): There was a degradation window that matches what you're describing.
+Customer (Tomás): Sure, one moment.
+Agent (Elena): I'll escalate this to our reliability team with your traces.
+Customer (Tomás): Okay, I'll trust that it's handled, but please follow up in writing.
+Agent (Elena): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Tomás): No, that's all for now.","The dashboard takes 30 seconds to load and my execs are complaining. Sure, one moment. Okay, I'll trust that it's handled, but please follow up in writing. No, that's all for now.",Reliability & Performance,Escalating dashboard lag to reliability engineering team.
+SUP-030,support,2026-04-23,How-To & Configuration,howto,Jonas (agent); Jonas (customer),pos,"--------------------
+Agent (Jonas): Thanks for calling support, this is Jonas. How can I help today?
+Customer (Jonas): Where do I configure the weekly digest email for my team?
+Agent (Jonas): That toggle lives under Notifications; let me show you.
+Customer (Jonas): I've already tried the usual restart and it didn't help.
+Agent (Jonas): Happy to help — let's go to Settings > Access together.
+Customer (Jonas): Great, this is going to save my team a ton of time.
+Agent (Jonas): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Jonas): No, that's all for now.","Where do I configure the weekly digest email for my team? I've already tried the usual restart and it didn't help. Great, this is going to save my team a ton of time. No, that's all for now.",Adoption & Enablement,Helping user activate the weekly digest newsletter toggle.
+SUP-031,support,2026-03-14,Data & Reporting,data,Naomi (agent); Sofia (customer),mixed,"--------------------
+Agent (Naomi): Thanks for calling support, this is Naomi. How can I help today?
+Customer (Sofia): Timezone handling in the reports is off by a day for us.
+Agent (Naomi): I'll connect you with our analytics team to scope the custom report.
+Customer (Sofia): Sure, one moment.
+Agent (Naomi): I'll open a data investigation and confirm nothing was dropped.
+Customer (Sofia): Thanks, that clears up most of it — I'll try what you suggested.
+Agent (Naomi): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Sofia): That's everything, thanks.","Timezone handling in the reports is off by a day for us. Sure, one moment. Thanks, that clears up most of it — I'll try what you suggested. That's everything, thanks.",Data & Reporting,Troubleshooting mismatched reporting timelines and dates.
+SUP-032,support,2026-06-14,Billing & Invoicing,billing,Jonas (agent); Devin (customer),neg,"--------------------
+Agent (Jonas): Thanks for calling support, this is Jonas. How can I help today?
+Customer (Devin): Our invoice jumped 40% this month with no warning and finance is furious.
+Agent (Jonas): That increase came from an overage on API calls; let me break it down.
+Customer (Devin): Sure, one moment.
+Agent (Jonas): Let me pull up your billing history and take a look.
+Customer (Devin): I appreciate the fix but this shouldn't have slipped through.
+Agent (Jonas): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Devin): No, that's all for now.","Our invoice jumped 40% this month with no warning and finance is furious. Sure, one moment. I appreciate the fix but this shouldn't have slipped through. No, that's all for now.",Billing & Pricing,Explaining sudden cost increases from high API usage.
+SUP-033,support,2026-04-10,Performance & Reliability,performance,Ben (agent); Raj (customer),neg,"--------------------
+Agent (Ben): Thanks for calling support, this is Ben. How can I help today?
+Customer (Raj): The app has been really sluggish all week for our EU users.
+Agent (Ben): Let me check the status of your region's cluster.
+Customer (Raj): I've already tried the usual restart and it didn't help.
+Agent (Ben): I'll escalate this to our reliability team with your traces.
+Customer (Raj): Okay, I'll trust that it's handled, but please follow up in writing.
+Agent (Ben): Understood. I've documented everything and you'll get a ticket summary by email. Anything else?
+Customer (Raj): No, that's all for now.","The app has been really sluggish all week for our EU users. I've already tried the usual restart and it didn't help. Okay, I'll trust that it's handled, but please follow up in writing. No, that's all for now.",Reliability & Performance,Handling latency problems for users in European region.
