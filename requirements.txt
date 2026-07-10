@@ -1,0 +1,11 @@
+google-genai==2.11.0
+pandas==3.0.3
+pydantic==2.13.4
+scikit-learn==1.9.0
+matplotlib==3.11.0
+numpy==2.5.1
+scipy==1.18.0
+google-auth==2.55.2
+httpx==0.28.1
+httpcore==1.0.9
+requests==2.34.2
